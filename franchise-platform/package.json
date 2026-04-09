@@ -1,0 +1,14 @@
+{
+  "name": "franchise-iq-platform",
+  "version": "1.0.0",
+  "description": "AI-Powered Franchise Discovery & Decision Intelligence Platform",
+  "scripts": {
+    "install:all": "cd backend && npm install && cd ../frontend && npm install",
+    "seed": "cd backend && npm run seed",
+    "dev": "concurrently \"cd backend && npm run dev\" \"cd frontend && npm run dev\"",
+    "start": "cd backend && npm start"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  }
+}
