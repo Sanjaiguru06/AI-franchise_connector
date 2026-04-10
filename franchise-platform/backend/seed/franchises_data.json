@@ -1,0 +1,6362 @@
+[
+  {
+    "name": "CSK Shawarma",
+    "category": "Shawarma & BBQ",
+    "subCategory": "Both",
+    "brandType": "Regional",
+    "description": "A Chennai Super Kings-inspired fan-based food truck and restaurant brand conceptualized by engineers to provide quality food at reasonable prices.",
+    "investment": {
+      "min": 5,
+      "max": 15
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 5
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Kiosk,",
+    "minArea": 100,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2--4",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 300000,
+      "max": 600000
+    },
+    "breakevenMonths": {
+      "min": 8,
+      "max": 18
+    },
+    "viabilityScore": 74,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Ohh My Shawarma",
+    "category": "Shawarma & BBQ",
+    "subCategory": "Both",
+    "brandType": "Regional",
+    "description": "A trendy, fusion-focused QSR known for blending Middle Eastern Shawarma with Indian and Global flavors, targeting the youth and evening snack market.",
+    "investment": {
+      "min": 5,
+      "max": 10
+    },
+    "franchiseFee": {
+      "min": 0,
+      "max": 0
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Small QSR outlet / Takeaway",
+    "minArea": 150,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai"
+    ],
+    "footfall": "High",
+    "staffRequired": "2--4",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 300000,
+      "max": 600000
+    },
+    "breakevenMonths": {
+      "min": 10,
+      "max": 16
+    },
+    "viabilityScore": 72,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Absolute Shawarma",
+    "category": "Shawarma & BBQ",
+    "subCategory": "Both",
+    "brandType": "National",
+    "description": "A high-growth QSR chain specializing in authentic Middle Eastern shawarma with a diverse menu including grilled BBQ, burgers, and momos.",
+    "investment": {
+      "min": 5,
+      "max": 11
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 2
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Small QSR outlet / Dine-in & Takeaway",
+    "minArea": 150,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2--4",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 300000,
+      "max": 600000
+    },
+    "breakevenMonths": {
+      "min": 10,
+      "max": 14
+    },
+    "viabilityScore": 81,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Shawarma Bro",
+    "category": "Shawarma & BBQ",
+    "subCategory": "Shwarma",
+    "brandType": "Local",
+    "description": "A high-footfall Mediterranean joint famous for its Cheesy Jalapeno and Gun Powder shawarma plates served in signature box packs.",
+    "investment": {
+      "min": 5,
+      "max": 8
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 3
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Small QSR / Takeaway",
+    "minArea": 150,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2--3",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 200000,
+      "max": 400000
+    },
+    "breakevenMonths": {
+      "min": 10,
+      "max": 16
+    },
+    "viabilityScore": 79,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Grill Nation",
+    "category": "Shawarma & BBQ",
+    "subCategory": "Both",
+    "brandType": "Regional",
+    "description": "A fast-growing QSR chain specializing in authentic, live-grill barbeque and premium variety shawarmas.",
+    "investment": {
+      "min": 10,
+      "max": 25
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 5
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Small QSR outlet, Dine-in / Takeaway.",
+    "minArea": 200,
+    "zones": [
+      "OMR / IT Corridor",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2--5",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 300000,
+      "max": 800000
+    },
+    "breakevenMonths": {
+      "min": 12,
+      "max": 18
+    },
+    "viabilityScore": 67,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Desert Shawarma",
+    "category": "Shawarma & BBQ",
+    "subCategory": "Both",
+    "brandType": "Regional",
+    "description": "A Chennai-born QSR brand focusing on volume-based sales of Arabian-style shawarma and grilled meats with an Indian spice profile.",
+    "investment": {
+      "min": 6,
+      "max": 10
+    },
+    "franchiseFee": {
+      "min": 3,
+      "max": 10
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Small QSR outlet, Street Kiosk.",
+    "minArea": 150,
+    "zones": [
+      "OMR / IT Corridor",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2--4",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 300000,
+      "max": 700000
+    },
+    "breakevenMonths": {
+      "min": 9,
+      "max": 15
+    },
+    "viabilityScore": 83,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Shwarmaa Express",
+    "category": "Shawarma & BBQ",
+    "subCategory": "Both",
+    "brandType": "Regional",
+    "description": "A high-growth Mediterranean QSR specializing in authentic Lebanese-style Shawarmas with a streamlined, delivery-optimized operational model",
+    "investment": {
+      "min": 10,
+      "max": 15
+    },
+    "franchiseFee": {
+      "min": 0,
+      "max": 0
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Small QSR outlet / Takeaway & Delivery",
+    "minArea": 150,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "3--5",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 300000,
+      "max": 600000
+    },
+    "breakevenMonths": {
+      "min": 12,
+      "max": 18
+    },
+    "viabilityScore": 79,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Ali Baba Shawarma",
+    "category": "Shawarma & BBQ",
+    "subCategory": "Both",
+    "brandType": "Regional",
+    "description": "A high-growth QSR known for its signature \"Hulk Shawarma\" and variety of grilled meats, offering a \"Vera Level\" budget-friendly dining experience.",
+    "investment": {
+      "min": 3,
+      "max": 10
+    },
+    "franchiseFee": {
+      "min": 0,
+      "max": 0
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Small QSR / Takeaway",
+    "minArea": 150,
+    "zones": [
+      "South Chennai",
+      "Central Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2--4",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 200000,
+      "max": 500000
+    },
+    "breakevenMonths": {
+      "min": 10,
+      "max": 14
+    },
+    "viabilityScore": 83,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Alhaf Food Court",
+    "category": "Shawarma & BBQ",
+    "subCategory": "Both",
+    "brandType": "Regional",
+    "description": "A high-traffic Arabic and Chinese eatery renowned for its signature Grill Chicken and flavorful Shawarma varieties.",
+    "investment": {
+      "min": 15,
+      "max": 25
+    },
+    "franchiseFee": {
+      "min": 0,
+      "max": 0
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Dine-in / Takeaway",
+    "minArea": 300,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "6--10",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 800000,
+      "max": 1500000
+    },
+    "breakevenMonths": {
+      "min": 12,
+      "max": 24
+    },
+    "viabilityScore": 63,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Le Shawarma Kings",
+    "category": "Shawarma & BBQ",
+    "subCategory": "Both",
+    "brandType": "Regional",
+    "description": "A high-volume, quick-service brand known for \"Special Shawarma Plates,\" sizzling brownies, and a \"chefless\" operational model.",
+    "investment": {
+      "min": 10,
+      "max": 20
+    },
+    "franchiseFee": {
+      "min": 4,
+      "max": 4
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Small QSR outlet or Food Truck.",
+    "minArea": 100,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai"
+    ],
+    "footfall": "High",
+    "staffRequired": "2--4",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 300000,
+      "max": 500000
+    },
+    "breakevenMonths": {
+      "min": 12,
+      "max": 18
+    },
+    "viabilityScore": 68,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Zwarma",
+    "category": "Shawarma & BBQ",
+    "subCategory": "Both",
+    "brandType": "National",
+    "description": "A specialized Indo-Lebanese QSR focusing on authentic preparation methods with over 25 shawarma varieties and grilled meats",
+    "investment": {
+      "min": 6,
+      "max": 18
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 3
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Kiosk, Takeaway, or Dine-in100-250",
+    "minArea": 100,
+    "zones": [
+      "South Chennai",
+      "Central Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2--3",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 300000,
+      "max": 500000
+    },
+    "breakevenMonths": {
+      "min": 12,
+      "max": 18
+    },
+    "viabilityScore": 82,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "It's Zhawarma",
+    "category": "Shawarma & BBQ",
+    "subCategory": "Both",
+    "brandType": "Regional",
+    "description": "A premium QSR brand focused on high-quality, hygienic, and authentic Middle Eastern shawarma and grilled meats with a standardized \"chefless\" operational model.",
+    "investment": {
+      "min": 7,
+      "max": 10
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 3
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Kiosk, Takeaway, or Dine-in",
+    "minArea": 100,
+    "zones": [
+      "South Chennai",
+      "Central Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2--3",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 300000,
+      "max": 500000
+    },
+    "breakevenMonths": {
+      "min": 12,
+      "max": 18
+    },
+    "viabilityScore": 80,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Mr Shawarma",
+    "category": "Shawarma & BBQ",
+    "subCategory": "Both",
+    "brandType": "National",
+    "description": "A premier QSR chain specializing in hygienic, authentic Lebanese shawarmas and a wide range of multi-cuisine fast food.",
+    "investment": {
+      "min": 3,
+      "max": 13
+    },
+    "franchiseFee": {
+      "min": 3,
+      "max": 3
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Street kiosk, Cloud Kitchen, and Dine-in",
+    "minArea": 100,
+    "zones": [
+      "OMR / IT Corridor",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "1--4",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 100000,
+      "max": 300000
+    },
+    "breakevenMonths": {
+      "min": 8,
+      "max": 12
+    },
+    "viabilityScore": 82,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Grill Nights",
+    "category": "Shawarma & BBQ",
+    "subCategory": "Both",
+    "brandType": "National",
+    "description": "A high-growth QSR chain offering authentic BBQ and Shawarma with a focus on affordability and a no-royalty business model.",
+    "investment": {
+      "min": 1,
+      "max": 6
+    },
+    "franchiseFee": {
+      "min": 0,
+      "max": 0
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Street kiosk, Small QSR, or Food Cart.",
+    "minArea": 100,
+    "zones": [
+      "OMR / IT Corridor"
+    ],
+    "footfall": "High",
+    "staffRequired": "2--4",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 300000,
+      "max": 750000
+    },
+    "breakevenMonths": {
+      "min": 5,
+      "max": 8
+    },
+    "viabilityScore": 91,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Qubs Shawarma & Grills",
+    "category": "Shawarma & BBQ",
+    "subCategory": "Both",
+    "brandType": "Regional",
+    "description": "A high-growth QSR specializing in Arabian-Indian fusion shawarmas and premium desserts like Kunafa, designed for high-speed service.",
+    "investment": {
+      "min": 5,
+      "max": 10
+    },
+    "franchiseFee": {
+      "min": 1,
+      "max": 3
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Small QSR outlet / Takeaway",
+    "minArea": 250,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "3--5",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 300000,
+      "max": 600000
+    },
+    "breakevenMonths": {
+      "min": 12,
+      "max": 24
+    },
+    "viabilityScore": 76,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Alibaba Shawarma&40 Dishes",
+    "category": "Shawarma & BBQ",
+    "subCategory": "Both",
+    "brandType": "Regional",
+    "description": "A high-volume, budget-friendly QSR specializing in 40+ varieties of Shawarma and Grilled meats, catering primarily to the youth and late-night foodies.",
+    "investment": {
+      "min": 3,
+      "max": 5
+    },
+    "franchiseFee": {
+      "min": 0,
+      "max": 0
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Small QSR outlet / Takeaway",
+    "minArea": 100,
+    "zones": [
+      "South Chennai",
+      "Central Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2--4",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 200000,
+      "max": 500000
+    },
+    "breakevenMonths": {
+      "min": 8,
+      "max": 14
+    },
+    "viabilityScore": 80,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Shawarma Hut",
+    "category": "Shawarma & BBQ",
+    "subCategory": "Both",
+    "brandType": "National",
+    "description": "A high-volume, low-investment QSR specializing in authentic chicken shawarma and grilled rolls with a 0% royalty model.",
+    "investment": {
+      "min": 4,
+      "max": 7
+    },
+    "franchiseFee": {
+      "min": 50,
+      "max": 50
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Small QSR outlet / Takeaway",
+    "minArea": 100,
+    "zones": [
+      "South Chennai"
+    ],
+    "footfall": "High",
+    "staffRequired": "2--3",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 200000,
+      "max": 400000
+    },
+    "breakevenMonths": {
+      "min": 8,
+      "max": 12
+    },
+    "viabilityScore": 88,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Al-Hashmi Arabian Shawarma",
+    "category": "Shawarma & BBQ",
+    "subCategory": "Both",
+    "brandType": "Regional",
+    "description": "A specialized QSR concept founded in 2010 that fuses traditional Arabic shawarma with Indian flavors, using in-house sauces and high-quality ingredients.",
+    "investment": {
+      "min": 2,
+      "max": 5
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 2
+    },
+    "royaltyLevel": "high",
+    "outletFormat": "Small QSR / Takeaway",
+    "minArea": 400,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai"
+    ],
+    "footfall": "High",
+    "staffRequired": "3--5",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 700000,
+      "max": 700000
+    },
+    "breakevenMonths": {
+      "min": 12,
+      "max": 24
+    },
+    "viabilityScore": 63,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "BBQ Master",
+    "category": "Shawarma & BBQ",
+    "subCategory": "Both",
+    "brandType": "Regional",
+    "description": "A fast-growing QSR chain known for its unique \"Gollape Shawarma\" and a menu of 25+ shawarma varieties at pocket-friendly prices.",
+    "investment": {
+      "min": 14,
+      "max": 16
+    },
+    "franchiseFee": {
+      "min": 3,
+      "max": 3
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "QSR outlet or Takeaway",
+    "minArea": 150,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai"
+    ],
+    "footfall": "High",
+    "staffRequired": "3--5",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 300000,
+      "max": 600000
+    },
+    "breakevenMonths": {
+      "min": 12,
+      "max": 18
+    },
+    "viabilityScore": 74,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "BBQ Mechanic",
+    "category": "Shawarma & BBQ",
+    "subCategory": "Both",
+    "brandType": "Regional",
+    "description": "A high-growth, low-investment street food franchise famous for its iconic \"Jeep BBQ\" theme and diverse non-veg menu.",
+    "investment": {
+      "min": 10,
+      "max": 15
+    },
+    "franchiseFee": {
+      "min": 3,
+      "max": 3
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Small QSR outlet or Dine-in / Takeaway",
+    "minArea": 150,
+    "zones": [
+      "South Chennai",
+      "Central Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "3--5",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 200000,
+      "max": 500000
+    },
+    "breakevenMonths": {
+      "min": 12,
+      "max": 18
+    },
+    "viabilityScore": 74,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Grills & Kebabs",
+    "category": "Shawarma & BBQ",
+    "subCategory": "Both",
+    "brandType": "National",
+    "description": "None",
+    "investment": {
+      "min": 5,
+      "max": 15
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 5
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Street kiosk, Small QSR, or Cloud Kitchen.",
+    "minArea": 100,
+    "zones": [
+      "OMR / IT Corridor"
+    ],
+    "footfall": "High",
+    "staffRequired": "2--4",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 300000,
+      "max": 800000
+    },
+    "breakevenMonths": {
+      "min": 9,
+      "max": 12
+    },
+    "viabilityScore": 86,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "BBQ Mafia",
+    "category": "Shawarma & BBQ",
+    "subCategory": "Both",
+    "brandType": "Regional",
+    "description": "A high-growth, low-investment street-style BBQ and Shawarma chain designed for high-volume quick service with no royalty fees.",
+    "investment": {
+      "min": 3,
+      "max": 6
+    },
+    "franchiseFee": {
+      "min": 0,
+      "max": 0
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Small QSR outlet / Takeaway",
+    "minArea": 100,
+    "zones": [
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2--4",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 150000,
+      "max": 400000
+    },
+    "breakevenMonths": {
+      "min": 6,
+      "max": 12
+    },
+    "viabilityScore": 86,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Grill Nights BBQ",
+    "category": "Shawarma & BBQ",
+    "subCategory": "Both",
+    "brandType": "National",
+    "description": "A high-growth QSR brand specializing in authentic Middle Eastern and Indian grilled flavors, marketed as one of India's most affordable franchise entries.",
+    "investment": {
+      "min": 1,
+      "max": 10
+    },
+    "franchiseFee": {
+      "min": 1,
+      "max": 1
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Street Kiosk, Small QSR,Dine-in",
+    "minArea": 100,
+    "zones": [
+      "OMR / IT Corridor",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2--4",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 300000,
+      "max": 500000
+    },
+    "breakevenMonths": {
+      "min": 5,
+      "max": 8
+    },
+    "viabilityScore": 90,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Tea boy",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "Tea Boy is a royalty-free franchise requiring an investment of ₹4–6 Lakh for a 100–300 sq. ft. space, known for its high-margin returns of ₹40k–1.8L monthly. It is famous for serving premium, natural-ingredient tea (like ginger and cardamom) alongside quick snacks, offering a high-profit, low-entry model for budding entrepreneurs.",
+    "investment": {
+      "min": 4,
+      "max": 6
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 2
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Kiosk",
+    "minArea": 200,
+    "zones": [
+      "OMR / IT Corridor",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2-3 members",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "low–medium",
+    "monthlyRevenue": {
+      "min": 180000,
+      "max": 300000
+    },
+    "breakevenMonths": {
+      "min": 4,
+      "max": 12
+    },
+    "viabilityScore": 89,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Chai kings",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "A rapidly growing tea chain known for hygienic, authentic \"dum\" chai and a variety of milkshakes and snacks at affordable prices.",
+    "investment": {
+      "min": 5,
+      "max": 12
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 3
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 100,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2–3",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "low",
+    "monthlyRevenue": {
+      "min": 150000,
+      "max": 400000
+    },
+    "breakevenMonths": {
+      "min": 10,
+      "max": 14
+    },
+    "viabilityScore": 87,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Tea Bench",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "A budget-friendly, \"no-royalty\" tea cafe model designed for high-volume sales with a standardized menu.",
+    "investment": {
+      "min": 2,
+      "max": 5
+    },
+    "franchiseFee": {
+      "min": 0,
+      "max": 0
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 100,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2–3",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "low",
+    "monthlyRevenue": {
+      "min": 150000,
+      "max": 400000
+    },
+    "breakevenMonths": {
+      "min": 10,
+      "max": 12
+    },
+    "viabilityScore": 90,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Chai waale",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "A premium homegrown brand known for authentic \"Ghar ki Chai\" and variety, targeting urban commuters and office goers.",
+    "investment": {
+      "min": 12,
+      "max": 25
+    },
+    "franchiseFee": {
+      "min": 3,
+      "max": 5
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 100,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2–4",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "low",
+    "monthlyRevenue": {
+      "min": 300000,
+      "max": 700000
+    },
+    "breakevenMonths": {
+      "min": 14,
+      "max": 22
+    },
+    "viabilityScore": 68,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Ram's Tea house",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "A rapidly growing tea chain known for its authentic brewing and high-volume \"quick-sip\" model.",
+    "investment": {
+      "min": 3,
+      "max": 5
+    },
+    "franchiseFee": {
+      "min": 3,
+      "max": 3
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 100,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2–3",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "low",
+    "monthlyRevenue": {
+      "min": 150000,
+      "max": 300000
+    },
+    "breakevenMonths": {
+      "min": 6,
+      "max": 10
+    },
+    "viabilityScore": 86,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Aaladipattiyan",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "A heritage-focused QSR chain famous for its palm jaggery (karupatti) coffee and Tirunelveli Halwa.",
+    "investment": {
+      "min": 5,
+      "max": 7
+    },
+    "franchiseFee": {
+      "min": 1,
+      "max": 3
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 150,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2–5",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "low–medium",
+    "monthlyRevenue": {
+      "min": 100000,
+      "max": 150000
+    },
+    "breakevenMonths": {
+      "min": 6,
+      "max": 12
+    },
+    "viabilityScore": 89,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Atti Cafe",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "A trendy, budget-friendly hangout spot designed for the youth, specializing in authentic Dum Tea, quick snacks like burgers and shawarma, and a \"vibe\" that mimics local tea shop hangouts.",
+    "investment": {
+      "min": 10,
+      "max": 20
+    },
+    "franchiseFee": {
+      "min": 9,
+      "max": 9
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 200,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2–4",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 300000,
+      "max": 1800000
+    },
+    "breakevenMonths": {
+      "min": 12,
+      "max": 24
+    },
+    "viabilityScore": 68,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Madras coffee",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "A traditional South Indian filter coffee chain that combines authentic heritage with a modern, hygienic retail experience.",
+    "investment": {
+      "min": 14,
+      "max": 16
+    },
+    "franchiseFee": {
+      "min": 4,
+      "max": 4
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 150,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2–5",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "low–medium",
+    "monthlyRevenue": {
+      "min": 300000,
+      "max": 600000
+    },
+    "breakevenMonths": {
+      "min": 24,
+      "max": 36
+    },
+    "viabilityScore": 60,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "lassi Corner",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "A high-growth beverage brand focused on traditional lassis, milkshakes, and snacks with a modern twist, known for its low-entry cost and zero royalty.",
+    "investment": {
+      "min": 5,
+      "max": 12
+    },
+    "franchiseFee": {
+      "min": 0,
+      "max": 0
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 100,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2–4",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "low",
+    "monthlyRevenue": {
+      "min": 250000,
+      "max": 600000
+    },
+    "breakevenMonths": {
+      "min": 12,
+      "max": 18
+    },
+    "viabilityScore": 84,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Tea Junction",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "A premium tea-café brand by the Ambuja Neotia Group known for blending traditional \"Khullad\" chai culture with modern café vibes.",
+    "investment": {
+      "min": 15,
+      "max": 25
+    },
+    "franchiseFee": {
+      "min": 5,
+      "max": 5
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 200,
+    "zones": [
+      "OMR / IT Corridor",
+      "Central Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "3–5",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 300000,
+      "max": 600000
+    },
+    "breakevenMonths": {
+      "min": 18,
+      "max": 24
+    },
+    "viabilityScore": 66,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Starbucks",
+    "category": "Tea & Coffee",
+    "subCategory": "Coffee",
+    "brandType": "Local / Regional / National / International",
+    "description": "A global premium coffeehouse chain known for its signature roasts, handcrafted beverages, and \"Third Place\" experience.",
+    "investment": {
+      "min": 1,
+      "max": 3
+    },
+    "franchiseFee": {
+      "min": 25,
+      "max": 50
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 500,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "5–12",
+    "trainingProvided": true,
+    "beginnerFriendly": false,
+    "operationalComplexity": "high",
+    "monthlyRevenue": {
+      "min": 2500000,
+      "max": 3000000
+    },
+    "breakevenMonths": {
+      "min": 18,
+      "max": 24
+    },
+    "viabilityScore": 61,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "cafe coffee day",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "India's largest coffee chain, known as a youth hangout hub providing \"affordable luxury\" coffee experiences.",
+    "investment": {
+      "min": 70,
+      "max": 1
+    },
+    "franchiseFee": {
+      "min": 10,
+      "max": 10
+    },
+    "royaltyLevel": "high",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 1000,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "5–6",
+    "trainingProvided": true,
+    "beginnerFriendly": false,
+    "operationalComplexity": "high",
+    "monthlyRevenue": {
+      "min": 500000,
+      "max": 1000000
+    },
+    "breakevenMonths": {
+      "min": 18,
+      "max": 36
+    },
+    "viabilityScore": 48,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Tea22",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "Affordable tea & coffee focused outlet",
+    "investment": {
+      "min": 3,
+      "max": 10
+    },
+    "franchiseFee": {
+      "min": 1,
+      "max": 3
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 100,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai",
+      "North Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2–5",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "low–medium",
+    "monthlyRevenue": {
+      "min": 150000,
+      "max": 600000
+    },
+    "breakevenMonths": {
+      "min": 10,
+      "max": 18
+    },
+    "viabilityScore": 74,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Tea Time",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "A high-volume, low-margin model focused on authentic \"Dum Chai\" and variety teas at affordable price points (₹10–₹20 per cup).",
+    "investment": {
+      "min": 4,
+      "max": 5
+    },
+    "franchiseFee": {
+      "min": 0,
+      "max": 0
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 100,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "low",
+    "monthlyRevenue": {
+      "min": 150000,
+      "max": 300000
+    },
+    "breakevenMonths": {
+      "min": 6,
+      "max": 12
+    },
+    "viabilityScore": 90,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Milky Delight Cafe",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "A \"Teavolution\" brand serving preservative-free tea and coffee using organic ingredients and naturally dehydrated fruits to over 6 lakh customers monthly.",
+    "investment": {
+      "min": 5,
+      "max": 10
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 4
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 100,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2–4",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "low",
+    "monthlyRevenue": {
+      "min": 200000,
+      "max": 600000
+    },
+    "breakevenMonths": {
+      "min": 8,
+      "max": 14
+    },
+    "viabilityScore": 87,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Chapiyo Cafe",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "Affordable tea & coffee focused outlet",
+    "investment": {
+      "min": 3,
+      "max": 10
+    },
+    "franchiseFee": {
+      "min": 1,
+      "max": 3
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 100,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai",
+      "North Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2–5",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "low–medium",
+    "monthlyRevenue": {
+      "min": 150000,
+      "max": 600000
+    },
+    "breakevenMonths": {
+      "min": 10,
+      "max": 18
+    },
+    "viabilityScore": 74,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Tekup",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "Affordable tea & coffee focused outlet",
+    "investment": {
+      "min": 3,
+      "max": 10
+    },
+    "franchiseFee": {
+      "min": 1,
+      "max": 3
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 100,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai",
+      "North Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2–5",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "low–medium",
+    "monthlyRevenue": {
+      "min": 150000,
+      "max": 600000
+    },
+    "breakevenMonths": {
+      "min": 10,
+      "max": 18
+    },
+    "viabilityScore": 74,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Karupatti House",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "A health-focused beverage brand replacing white sugar with palm jaggery (Karupatti), tapping into the \"back-to-roots\" wellness movement.",
+    "investment": {
+      "min": 12,
+      "max": 18
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 3
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 300,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "3–5",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 300000,
+      "max": 600000
+    },
+    "breakevenMonths": {
+      "min": 12,
+      "max": 18
+    },
+    "viabilityScore": 82,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Chai Point",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "India's largest organized chai retailer focusing on high-quality blends and IoT-enabled brewing technology (boxC).",
+    "investment": {
+      "min": 25,
+      "max": 50
+    },
+    "franchiseFee": {
+      "min": 0,
+      "max": 0
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 600,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "4–6",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "low",
+    "monthlyRevenue": {
+      "min": 500000,
+      "max": 1200000
+    },
+    "breakevenMonths": {
+      "min": 18,
+      "max": 24
+    },
+    "viabilityScore": 60,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Chaayos",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "A premium, tech-led tea café known for \"12,000+ ways to make your chai\" and a high-end snacking menu.",
+    "investment": {
+      "min": 15,
+      "max": 30
+    },
+    "franchiseFee": {
+      "min": 3,
+      "max": 5
+    },
+    "royaltyLevel": "high",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 300,
+    "zones": [
+      "OMR / IT Corridor",
+      "Central Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "3–6",
+    "trainingProvided": true,
+    "beginnerFriendly": false,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 400000,
+      "max": 800000
+    },
+    "breakevenMonths": {
+      "min": 18,
+      "max": 24
+    },
+    "viabilityScore": 50,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Tea Trails",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "India’s first chain of gourmet tea cafés, offering over 80 varieties of tea with specialized tea-food pairings.",
+    "investment": {
+      "min": 30,
+      "max": 50
+    },
+    "franchiseFee": {
+      "min": 5,
+      "max": 7
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 250,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "5–6",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 350000,
+      "max": 650000
+    },
+    "breakevenMonths": {
+      "min": 18,
+      "max": 36
+    },
+    "viabilityScore": 52,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Chai Sutta Bar",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "A rapidly growing QSR chain famous for serving various tea flavors in eco-friendly kulhads with a bar-themed ambiance (no smoking/alcohol allowed).",
+    "investment": {
+      "min": 16,
+      "max": 25
+    },
+    "franchiseFee": {
+      "min": 6,
+      "max": 8
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 200,
+    "zones": [
+      "OMR / IT Corridor",
+      "Central Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2–4",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 450000,
+      "max": 750000
+    },
+    "breakevenMonths": {
+      "min": 12,
+      "max": 18
+    },
+    "viabilityScore": 76,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "MBA Chaiwala",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "A youth-centric brand built on the \"hustle\" narrative, focusing on unique tea varieties and a strong social media presence.",
+    "investment": {
+      "min": 15,
+      "max": 25
+    },
+    "franchiseFee": {
+      "min": 3,
+      "max": 5
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 150,
+    "zones": [
+      "OMR / IT Corridor",
+      "Central Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2–5",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 200000,
+      "max": 500000
+    },
+    "breakevenMonths": {
+      "min": 15,
+      "max": 20
+    },
+    "viabilityScore": 69,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "tealogy Café",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "A rapidly growing café chain famous for its authentic Kulhad Tea and a diverse menu featuring shakes and sandwiches.",
+    "investment": {
+      "min": 10,
+      "max": 25
+    },
+    "franchiseFee": {
+      "min": 0,
+      "max": 0
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 150,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2–5",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 300000,
+      "max": 800000
+    },
+    "breakevenMonths": {
+      "min": 12,
+      "max": 24
+    },
+    "viabilityScore": 71,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "India Chai Lounge",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "A premium cafe chain specializing in fresh, made-to-order teas and coffees paired with freshly prepared global snacks in a spacious lounge setting.",
+    "investment": {
+      "min": 20,
+      "max": 30
+    },
+    "franchiseFee": {
+      "min": 5,
+      "max": 8
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 400,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "4–6",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 500000,
+      "max": 1000000
+    },
+    "breakevenMonths": {
+      "min": 14,
+      "max": 20
+    },
+    "viabilityScore": 68,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "The Kettlery",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "A premium tea lifestyle brand offering 100% natural loose-leaf teas, designer brewing accessories, and an artisanal café experience.",
+    "investment": {
+      "min": 20,
+      "max": 30
+    },
+    "franchiseFee": {
+      "min": 5,
+      "max": 7
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 100,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai",
+      "College Areas"
+    ],
+    "footfall": "Medium",
+    "staffRequired": "4–6",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 500000,
+      "max": 1000000
+    },
+    "breakevenMonths": {
+      "min": 18,
+      "max": 24
+    },
+    "viabilityScore": 65,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "We Chai",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "A fast-growing tea chain from Tamil Nadu offering 50+ varieties of tea with a focus on affordable, high-quality \"dum\" tea.",
+    "investment": {
+      "min": 3,
+      "max": 5
+    },
+    "franchiseFee": {
+      "min": 1,
+      "max": 2
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 100,
+    "zones": [
+      "Central Chennai"
+    ],
+    "footfall": "High",
+    "staffRequired": "2–3",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "low",
+    "monthlyRevenue": {
+      "min": 150000,
+      "max": 300000
+    },
+    "breakevenMonths": {
+      "min": 10,
+      "max": 14
+    },
+    "viabilityScore": 88,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "black pekoe tea",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "A \"premium yet affordable\" tea brand founded by Joseph Rajesh that focuses on live-brewed, high-quality blends to reinvent India’s tea culture.",
+    "investment": {
+      "min": 2,
+      "max": 7
+    },
+    "franchiseFee": {
+      "min": 0,
+      "max": 0
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 100,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2–3",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "low",
+    "monthlyRevenue": {
+      "min": 150000,
+      "max": 400000
+    },
+    "breakevenMonths": {
+      "min": 6,
+      "max": 12
+    },
+    "viabilityScore": 89,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "nalan's coffee bar",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "A health-centric beverage brand offering 150+ items, blending traditional South Indian filter coffee with unique herbal/medicinal drinks.",
+    "investment": {
+      "min": 3,
+      "max": 5
+    },
+    "franchiseFee": {
+      "min": 1,
+      "max": 1
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 100,
+    "zones": [
+      "Central Chennai"
+    ],
+    "footfall": "High",
+    "staffRequired": "2–3",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "low",
+    "monthlyRevenue": {
+      "min": 150000,
+      "max": 300000
+    },
+    "breakevenMonths": {
+      "min": 6,
+      "max": 12
+    },
+    "viabilityScore": 90,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "casino tea point",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "A modern, affordable tea brand known for high-volume sales, specialized snacks like ₹10 sandwiches, and a clean \"new-age\" tea stall experience.",
+    "investment": {
+      "min": 3,
+      "max": 8
+    },
+    "franchiseFee": {
+      "min": 0,
+      "max": 0
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 100,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "North Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2–3",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "low",
+    "monthlyRevenue": {
+      "min": 150000,
+      "max": 400000
+    },
+    "breakevenMonths": {
+      "min": 10,
+      "max": 15
+    },
+    "viabilityScore": 87,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "karupatticoffee",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "A health-focused brand replacing refined sugar with traditional palm jaggery (Karupatti), serving a nostalgic yet modern consumer base.",
+    "investment": {
+      "min": 5,
+      "max": 18
+    },
+    "franchiseFee": {
+      "min": 1,
+      "max": 3
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 500,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "4–10",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 300000,
+      "max": 750000
+    },
+    "breakevenMonths": {
+      "min": 8,
+      "max": 18
+    },
+    "viabilityScore": 82,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Te Hut",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "Affordable tea & coffee focused outlet",
+    "investment": {
+      "min": 3,
+      "max": 10
+    },
+    "franchiseFee": {
+      "min": 1,
+      "max": 3
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 100,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai",
+      "North Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2–5",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "low–medium",
+    "monthlyRevenue": {
+      "min": 150000,
+      "max": 600000
+    },
+    "breakevenMonths": {
+      "min": 10,
+      "max": 18
+    },
+    "viabilityScore": 74,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "tea world",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "A rapidly growing beverage chain offering 70+ varieties of drinks with a focus on high-quality tea at affordable prices.",
+    "investment": {
+      "min": 3,
+      "max": 5
+    },
+    "franchiseFee": {
+      "min": 0,
+      "max": 0
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 100,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2–3",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "low",
+    "monthlyRevenue": {
+      "min": 150000,
+      "max": 400000
+    },
+    "breakevenMonths": {
+      "min": 8,
+      "max": 14
+    },
+    "viabilityScore": 88,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "chitra coffee bar",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "A heritage brand from Vellore known for authentic South Indian filter coffee and traditional snacks with a standardized, high-volume model.",
+    "investment": {
+      "min": 8,
+      "max": 15
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 2
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 300,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "3–5",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 300000,
+      "max": 700000
+    },
+    "breakevenMonths": {
+      "min": 12,
+      "max": 18
+    },
+    "viabilityScore": 78,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Mud Koffee",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "A unique specialty cafe famous for brewing coffee on heated sand, offering a theatrical and premium experience at an affordable price.",
+    "investment": {
+      "min": 5,
+      "max": 10
+    },
+    "franchiseFee": {
+      "min": 1,
+      "max": 1
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 150,
+    "zones": [
+      "OMR / IT Corridor",
+      "Central Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2–3",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 150000,
+      "max": 300000
+    },
+    "breakevenMonths": {
+      "min": 10,
+      "max": 14
+    },
+    "viabilityScore": 82,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Hyderabad Irani Chai",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "A high-volume tea brand replicating the authentic 1950s Irani café taste using standardized tea powder and Osmania biscuits.",
+    "investment": {
+      "min": 5,
+      "max": 15
+    },
+    "franchiseFee": {
+      "min": 0,
+      "max": 0
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 100,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2–4",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "low",
+    "monthlyRevenue": {
+      "min": 150000,
+      "max": 500000
+    },
+    "breakevenMonths": {
+      "min": 6,
+      "max": 10
+    },
+    "viabilityScore": 89,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "irani dude",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "A nostalgic Irani café concept focusing on authentic \"Dum\" chai, Bun Maska, and cream-filled snacks with a modern, trendy brand image.",
+    "investment": {
+      "min": 3,
+      "max": 4
+    },
+    "franchiseFee": {
+      "min": 3,
+      "max": 3
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 150,
+    "zones": [
+      "OMR / IT Corridor",
+      "Central Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2–3",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "low",
+    "monthlyRevenue": {
+      "min": 200000,
+      "max": 450000
+    },
+    "breakevenMonths": {
+      "min": 6,
+      "max": 10
+    },
+    "viabilityScore": 91,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "nammairanichai",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "A modern take on traditional Hyderabadi Irani Chai culture, known for its rich, creamy tea paired with authentic Osmania biscuits.",
+    "investment": {
+      "min": 3,
+      "max": 7
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 2
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 100,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2–3",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "low",
+    "monthlyRevenue": {
+      "min": 150000,
+      "max": 300000
+    },
+    "breakevenMonths": {
+      "min": 10,
+      "max": 14
+    },
+    "viabilityScore": 88,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "hello Irani",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "A traditional tea cafe concept that recreates the vintage Parsi/Irani cafe experience through authentic brewing methods and nostalgic snacks.",
+    "investment": {
+      "min": 3,
+      "max": 6
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 2
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 250,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2–3",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "low",
+    "monthlyRevenue": {
+      "min": 200000,
+      "max": 500000
+    },
+    "breakevenMonths": {
+      "min": 8,
+      "max": 14
+    },
+    "viabilityScore": 88,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "mr Irani",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "A rapidly growing chain specializing in authentic, slow-brewed Hyderabadi Irani Chai and Malai Bun, focusing on high-volume sales.",
+    "investment": {
+      "min": 10,
+      "max": 15
+    },
+    "franchiseFee": {
+      "min": 5,
+      "max": 5
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 100,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2–4",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 150000,
+      "max": 400000
+    },
+    "breakevenMonths": {
+      "min": 8,
+      "max": 14
+    },
+    "viabilityScore": 86,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Irani Nawabs",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "A celebrity-endorsed Irani chai brand focusing on 100% natural ingredients and traditional Dum-style brewing.",
+    "investment": {
+      "min": 2,
+      "max": 5
+    },
+    "franchiseFee": {
+      "min": 0,
+      "max": 0
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 100,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2–3",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "low",
+    "monthlyRevenue": {
+      "min": 150000,
+      "max": 400000
+    },
+    "breakevenMonths": {
+      "min": 10,
+      "max": 18
+    },
+    "viabilityScore": 86,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "time pass",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "Affordable tea & coffee focused outlet",
+    "investment": {
+      "min": 3,
+      "max": 10
+    },
+    "franchiseFee": {
+      "min": 1,
+      "max": 3
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 100,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai",
+      "North Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2–5",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "low–medium",
+    "monthlyRevenue": {
+      "min": 150000,
+      "max": 600000
+    },
+    "breakevenMonths": {
+      "min": 10,
+      "max": 18
+    },
+    "viabilityScore": 74,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "namma theneer kadai",
+    "category": "Tea & Coffee",
+    "subCategory": "Tea / Coffee / Both",
+    "brandType": "Local / Regional / National / International",
+    "description": "A traditional-meets-modern tea outlet focusing on high-volume, low-cost \"Dum Tea\" and authentic snacks.",
+    "investment": {
+      "min": 3,
+      "max": 5
+    },
+    "franchiseFee": {
+      "min": 0,
+      "max": 0
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Kiosk / Small shop / Café-style",
+    "minArea": 100,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai",
+      "College Areas"
+    ],
+    "footfall": "High",
+    "staffRequired": "2–3",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "low",
+    "monthlyRevenue": {
+      "min": 150000,
+      "max": 300000
+    },
+    "breakevenMonths": {
+      "min": 10,
+      "max": 14
+    },
+    "viabilityScore": 88,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "1.5K Car Care",
+    "category": "Car Care",
+    "subCategory": "Full car care",
+    "brandType": "National",
+    "description": "A tech-driven, multi-service detailing chain specializing in affordable luxury treatments and advanced car protection",
+    "investment": {
+      "min": 20,
+      "max": 30
+    },
+    "franchiseFee": {
+      "min": 0,
+      "max": 0
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Walk-in & Appointment-based",
+    "minArea": 1,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai"
+    ],
+    "footfall": "High",
+    "staffRequired": "6 – 10",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 400000,
+      "max": 800000
+    },
+    "breakevenMonths": {
+      "min": 18,
+      "max": 24
+    },
+    "viabilityScore": 74,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": []
+  },
+  {
+    "name": "Detailing Mafia",
+    "category": "Car Care",
+    "subCategory": "Full car care",
+    "brandType": "National",
+    "description": "A premium detailing powerhouse specializing in high-margin protection services like PPF and Ceramic Coating with a \"luxury studio\" aesthetic.",
+    "investment": {
+      "min": 25,
+      "max": 45
+    },
+    "franchiseFee": {
+      "min": 0,
+      "max": 0
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Appointment-based",
+    "minArea": 1,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai"
+    ],
+    "footfall": "Medium",
+    "staffRequired": "6 – 10",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 800000,
+      "max": 1800000
+    },
+    "breakevenMonths": {
+      "min": 18,
+      "max": 24
+    },
+    "viabilityScore": 71,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": []
+  },
+  {
+    "name": "The Detailing Gang",
+    "category": "Car Care",
+    "subCategory": "Premium Car & Bike Detailing",
+    "brandType": "National.",
+    "description": "A high-end studio specializing in \"showroom-level\" vehicle protection with a focus on transparency and live-streaming of services.",
+    "investment": {
+      "min": 20,
+      "max": 60
+    },
+    "franchiseFee": {
+      "min": 5,
+      "max": 10
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Appointment-based",
+    "minArea": 700,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai"
+    ],
+    "footfall": "Medium",
+    "staffRequired": "4–8",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 600000,
+      "max": 1000000
+    },
+    "breakevenMonths": {
+      "min": 12,
+      "max": 24
+    },
+    "viabilityScore": 57,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": []
+  },
+  {
+    "name": "CarzSpa",
+    "category": "Car Care",
+    "subCategory": "Full car care",
+    "brandType": "National",
+    "description": "Premium detailing studio specializing in high-end ceramic coatings, PPF, and advanced steam-based restoration.",
+    "investment": {
+      "min": 18,
+      "max": 45
+    },
+    "franchiseFee": {
+      "min": 0,
+      "max": 0
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Appointment-based (Primarily) / Walk-in",
+    "minArea": 1,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai"
+    ],
+    "footfall": "medium",
+    "staffRequired": "5 – 8",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 500000,
+      "max": 1200000
+    },
+    "breakevenMonths": {
+      "min": 12,
+      "max": 18
+    },
+    "viabilityScore": 75,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": []
+  },
+  {
+    "name": "Speed Car Wash",
+    "category": "Car Care",
+    "subCategory": "Full car care",
+    "brandType": "National",
+    "description": ": Focuses on organizing the unorganized car wash segment using high-pressure mechanized systems to provide fast, professional cleaning.",
+    "investment": {
+      "min": 15,
+      "max": 40
+    },
+    "franchiseFee": {
+      "min": 1,
+      "max": 5
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Appointment-based (Primarily) / Walk-in",
+    "minArea": 1,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai"
+    ],
+    "footfall": "medium",
+    "staffRequired": "3–5",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 100000,
+      "max": 125000
+    },
+    "breakevenMonths": {
+      "min": 12,
+      "max": 15
+    },
+    "viabilityScore": 78,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": []
+  },
+  {
+    "name": "Express Car Wash",
+    "category": "Car Care",
+    "subCategory": "full car care",
+    "brandType": "national",
+    "description": ": High-speed, eco-friendly car care using advanced imported equipment and water-recycling systems that save up to 95% water.",
+    "investment": {
+      "min": 15,
+      "max": 25
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 2
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Walk-in and Appointment-based",
+    "minArea": 800,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai"
+    ],
+    "footfall": "medium",
+    "staffRequired": "10-15 members",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 100000,
+      "max": 300000
+    },
+    "breakevenMonths": {
+      "min": 12,
+      "max": 24
+    },
+    "viabilityScore": 66,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": []
+  },
+  {
+    "name": "Automoto",
+    "category": "Car Care",
+    "subCategory": "Car wash",
+    "brandType": "National",
+    "description": "A next-generation automotive ecosystem providing AI-driven inspections, digital garage management via the MotoDoc platform, and asset-light mobile service options",
+    "investment": {
+      "min": 11,
+      "max": 91
+    },
+    "franchiseFee": {
+      "min": 5,
+      "max": 5
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Hybrid",
+    "minArea": 1,
+    "zones": [
+      "South Chennai"
+    ],
+    "footfall": "Medium",
+    "staffRequired": "10–15",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 100000,
+      "max": 300000
+    },
+    "breakevenMonths": {
+      "min": 5,
+      "max": 20
+    },
+    "viabilityScore": 62,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": []
+  },
+  {
+    "name": "My Bike Wash",
+    "category": "Car Care",
+    "subCategory": "Automated Bike Wash",
+    "brandType": "National",
+    "description": "Eco-friendly automated washing technology featuring a water recycling unit that saves up to 90% of water.",
+    "investment": {
+      "min": 5,
+      "max": 10
+    },
+    "franchiseFee": {
+      "min": 50,
+      "max": 1
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Walk-in and Appointment-based",
+    "minArea": 150,
+    "zones": [
+      "OMR / IT Corridor"
+    ],
+    "footfall": "High",
+    "staffRequired": "2 – 3",
+    "trainingProvided": false,
+    "beginnerFriendly": true,
+    "operationalComplexity": "yes.",
+    "monthlyRevenue": {
+      "min": 100000,
+      "max": 100000
+    },
+    "breakevenMonths": {
+      "min": 8,
+      "max": 12
+    },
+    "viabilityScore": 78,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": []
+  },
+  {
+    "name": "Shifterz",
+    "category": "Car Care",
+    "subCategory": "Car wash",
+    "brandType": "National",
+    "description": ": A premium detailing and modification brand utilizing proprietary \"Crossfibre\" bonding technology to handle extreme Indian road conditions.",
+    "investment": {
+      "min": 45,
+      "max": 50
+    },
+    "franchiseFee": {
+      "min": 4,
+      "max": 4
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Appointment-based",
+    "minArea": 3,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai"
+    ],
+    "footfall": "Medium",
+    "staffRequired": "06-13 members",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium to high",
+    "monthlyRevenue": {
+      "min": 300000,
+      "max": 600000
+    },
+    "breakevenMonths": {
+      "min": 12,
+      "max": 18
+    },
+    "viabilityScore": 74,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": []
+  },
+  {
+    "name": "Wash By Total Energies",
+    "category": "Car Care",
+    "subCategory": "Automated Roller Wash",
+    "brandType": "National",
+    "description": "Eco-conscious professional vehicle care featuring a water recycling system that recovers up to 85% of water used.",
+    "investment": {
+      "min": 34,
+      "max": 40
+    },
+    "franchiseFee": {
+      "min": 3,
+      "max": 3
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Walk-in and Station-based",
+    "minArea": 3,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai"
+    ],
+    "footfall": "High",
+    "staffRequired": "04-06 members",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium to high",
+    "monthlyRevenue": {
+      "min": 130000,
+      "max": 280000
+    },
+    "breakevenMonths": {
+      "min": 3,
+      "max": 4
+    },
+    "viabilityScore": 86,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": []
+  },
+  {
+    "name": "CAR-O-MAN",
+    "category": "Car Care",
+    "subCategory": "Car wash",
+    "brandType": "Regional",
+    "description": "A technology-driven multi-brand workshop offering \"Dealership-like\" quality at local garage prices with a strong focus on transparent digital billing.",
+    "investment": {
+      "min": 15,
+      "max": 30
+    },
+    "franchiseFee": {
+      "min": 3,
+      "max": 5
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Appointment-based and Walk-in",
+    "minArea": 1,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai"
+    ],
+    "footfall": "Medium",
+    "staffRequired": "05-08 members",
+    "trainingProvided": true,
+    "beginnerFriendly": false,
+    "operationalComplexity": "medium to high",
+    "monthlyRevenue": {
+      "min": 400000,
+      "max": 800000
+    },
+    "breakevenMonths": {
+      "min": 18,
+      "max": 24
+    },
+    "viabilityScore": 56,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": []
+  },
+  {
+    "name": "3M Car Care Studio",
+    "category": "Car Care",
+    "subCategory": "Car wash",
+    "brandType": "National",
+    "description": "A premium, technology-driven studio providing world-class automotive detailing and protective coatings with scientific precision.",
+    "investment": {
+      "min": 30,
+      "max": 1
+    },
+    "franchiseFee": {
+      "min": 3,
+      "max": 5
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Hybrid",
+    "minArea": 1,
+    "zones": [
+      "South Chennai",
+      "Central Chennai"
+    ],
+    "footfall": "medium",
+    "staffRequired": "12-15Members",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium-high",
+    "monthlyRevenue": {
+      "min": 100000,
+      "max": 300000
+    },
+    "breakevenMonths": {
+      "min": 18,
+      "max": 30
+    },
+    "viabilityScore": 77,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": []
+  },
+  {
+    "name": "Door2Door Car Wash",
+    "category": "Car Care",
+    "subCategory": "car wash",
+    "brandType": "National",
+    "description": "A high-flexibility, 100% mobile service focusing on water-efficient technology (40–60 liters per wash) and digital integration for urban professionals.",
+    "investment": {
+      "min": 3,
+      "max": 15
+    },
+    "franchiseFee": {
+      "min": 1,
+      "max": 2
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "100% Mobile",
+    "minArea": 1,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai"
+    ],
+    "footfall": "low",
+    "staffRequired": "2-4members",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "low-medium",
+    "monthlyRevenue": {
+      "min": 150000,
+      "max": 200000
+    },
+    "breakevenMonths": {
+      "min": 8,
+      "max": 12
+    },
+    "viabilityScore": 86,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": []
+  },
+  {
+    "name": "Paggico.com",
+    "category": "Car Care",
+    "subCategory": "car wash",
+    "brandType": "national",
+    "description": "A technology-driven \"360-degree\" car care brand offering professional detailing and doorstep cleaning services across major Indian cities.",
+    "investment": {
+      "min": 2,
+      "max": 45
+    },
+    "franchiseFee": {
+      "min": 300000,
+      "max": 300000
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Walk-in, Appointment-based, and Doorstep/Mobile service",
+    "minArea": 500,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai"
+    ],
+    "footfall": "medium",
+    "staffRequired": "2-3members",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 180000,
+      "max": 450000
+    },
+    "breakevenMonths": {
+      "min": 9,
+      "max": 11
+    },
+    "viabilityScore": 75,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": []
+  },
+  {
+    "name": "AUTOZ SPA",
+    "category": "Car Care",
+    "subCategory": "Car wash",
+    "brandType": "National",
+    "description": ": A well-known automotive care brand specializing in eco-friendly steam cleaning and high-margin professional detailing services.",
+    "investment": {
+      "min": 10,
+      "max": 12
+    },
+    "franchiseFee": {
+      "min": 200000,
+      "max": 200000
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Walk-in and Appointment-based",
+    "minArea": 500,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai"
+    ],
+    "footfall": "medium",
+    "staffRequired": "5-7members",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 100000,
+      "max": 300000
+    },
+    "breakevenMonths": {
+      "min": 12,
+      "max": 18
+    },
+    "viabilityScore": 83,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": []
+  },
+  {
+    "name": "Hoora Car Wash",
+    "category": "Car Care",
+    "subCategory": "full car care",
+    "brandType": "national",
+    "description": "A tech-driven aggregator specializing in eco-friendly doorstep auto-care services using portable, high-powered \"PowerKits.\"",
+    "investment": {
+      "min": 4,
+      "max": 8
+    },
+    "franchiseFee": {
+      "min": 0,
+      "max": 0
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Doorstep / Mobile service",
+    "minArea": 0,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai"
+    ],
+    "footfall": "low",
+    "staffRequired": "1-2members",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "low-medium",
+    "monthlyRevenue": {
+      "min": 3500000,
+      "max": 5000000
+    },
+    "breakevenMonths": {
+      "min": 6,
+      "max": 8
+    },
+    "viabilityScore": 91,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": []
+  },
+  {
+    "name": "Doctor Garage",
+    "category": "Car Care",
+    "subCategory": "bike washing.",
+    "brandType": "National",
+    "description": "A standardized multi-brand two-wheeler service chain providing affordable, tech-enabled maintenance and doorstep pickup/drop",
+    "investment": {
+      "min": 6,
+      "max": 10
+    },
+    "franchiseFee": {
+      "min": 1,
+      "max": 1
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Hybrid",
+    "minArea": 300,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai"
+    ],
+    "footfall": "Medium",
+    "staffRequired": "3–5 members",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 300000,
+      "max": 400000
+    },
+    "breakevenMonths": {
+      "min": 9,
+      "max": 12
+    },
+    "viabilityScore": 88,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": []
+  },
+  {
+    "name": "Go-Speedy-Go",
+    "category": "Car Care",
+    "subCategory": "Car wash",
+    "brandType": "National",
+    "description": "An ISO 9001:2015 certified end-to-end automobile service provider specializing in \"Workshop on Wheels\" (mobile doorstep service) and tech-enabled smart workshops",
+    "investment": {
+      "min": 15,
+      "max": 25
+    },
+    "franchiseFee": {
+      "min": 1,
+      "max": 4
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Doorstep/Mobile service + Appointment-based workshops.",
+    "minArea": 800,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai"
+    ],
+    "footfall": "Medium",
+    "staffRequired": "2-10 members",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 200000,
+      "max": 900000
+    },
+    "breakevenMonths": {
+      "min": 18,
+      "max": 24
+    },
+    "viabilityScore": 76,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": []
+  },
+  {
+    "name": "Zixdo Car Wash",
+    "category": "Car Care",
+    "subCategory": "Car wash",
+    "brandType": "National",
+    "description": "A tech-driven, affordable multi-service platform known for its \"Doorstep Wash\" innovation and 24/7 automated self-service stations using Russian technology Zixdo Instagram",
+    "investment": {
+      "min": 2,
+      "max": 50
+    },
+    "franchiseFee": {
+      "min": 1,
+      "max": 1
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Walk-in + Subscription-based + Doorstep service",
+    "minArea": 300,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai"
+    ],
+    "footfall": "Medium",
+    "staffRequired": "2-8 members",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "low-medium",
+    "monthlyRevenue": {
+      "min": 600000,
+      "max": 1000000
+    },
+    "breakevenMonths": {
+      "min": 12,
+      "max": 24
+    },
+    "viabilityScore": 69,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": []
+  },
+  {
+    "name": "DM Car Care",
+    "category": "Car Care",
+    "subCategory": "Full car care",
+    "brandType": "National",
+    "description": "A premium ISO 9001-2015 certified car detailing studio specializing in high-end coatings and \"Go Carbon Goo\" engine mileage boost technology",
+    "investment": {
+      "min": 10,
+      "max": 36
+    },
+    "franchiseFee": {
+      "min": 1,
+      "max": 1
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Appointment-based Detailing + Walk-in Wash DM Car Care",
+    "minArea": 1,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai"
+    ],
+    "footfall": "Medium",
+    "staffRequired": "4-8 members",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 200000,
+      "max": 500000
+    },
+    "breakevenMonths": {
+      "min": 6,
+      "max": 6
+    },
+    "viabilityScore": 85,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": []
+  },
+  {
+    "name": "The Car Laundry",
+    "category": "Car Care",
+    "subCategory": "Full car care",
+    "brandType": "National",
+    "description": "An innovative car care brand founded in 2012 that manufactures its own eco-friendly cleaning products and offers high-end detailing with \"No-Cost EMI\" options The Car Laundry",
+    "investment": {
+      "min": 10,
+      "max": 20
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 2
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Walk-in + Appointment-based + Free Pickup/Drop service The Car Laundry - Services.",
+    "minArea": 300,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai"
+    ],
+    "footfall": "Medium",
+    "staffRequired": "3-5 members",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 200000,
+      "max": 250000
+    },
+    "breakevenMonths": {
+      "min": 12,
+      "max": 18
+    },
+    "viabilityScore": 81,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": []
+  },
+  {
+    "name": "Dynamic Motors",
+    "category": "Car Care",
+    "subCategory": "Full car care",
+    "brandType": "National",
+    "description": "A high-growth multi-brand car care provider specializing in \"Engine Carbon Cleaning\" and premium detailing with a focus on quick ROI IndiaMART",
+    "investment": {
+      "min": 12,
+      "max": 36
+    },
+    "franchiseFee": {
+      "min": 12,
+      "max": 12
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Walk-in + B2B Corporate Leads + Appointment-based detailing.",
+    "minArea": 500,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai"
+    ],
+    "footfall": "Medium",
+    "staffRequired": "3-6 members",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 300000,
+      "max": 500000
+    },
+    "breakevenMonths": {
+      "min": 6,
+      "max": 6
+    },
+    "viabilityScore": 85,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": []
+  },
+  {
+    "name": "SS Hyderabad Biryani",
+    "category": "Biryani",
+    "subCategory": "Hyderabadi",
+    "brandType": "Regional",
+    "description": "Famous for 'bucket biryani' concept; rich, spicy Hyderabadi dum style with 28+ outlets across Chennai.",
+    "investment": {
+      "min": 15,
+      "max": 25
+    },
+    "franchiseFee": {
+      "min": 3,
+      "max": 8
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Takeaway-only / Dine-in",
+    "minArea": 300,
+    "zones": [
+      "South Chennai",
+      "Central Chennai",
+      "North Chennai"
+    ],
+    "footfall": "High",
+    "staffRequired": "8–12",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 300000,
+      "max": 600000
+    },
+    "breakevenMonths": {
+      "min": 18,
+      "max": 24
+    },
+    "viabilityScore": 68,
+    "setupIncludes": [
+      "Kitchen Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI",
+      "Fire Safety"
+    ]
+  },
+  {
+    "name": "Toppivappa Biryani",
+    "category": "Biryani",
+    "subCategory": "Hyderabadi",
+    "brandType": "Local",
+    "description": "Chennai-born cloud kitchen specializing in bucket-style Hyderabadi biryani; strong Swiggy/Zomato presence.",
+    "investment": {
+      "min": 8,
+      "max": 15
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 4
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Cloud Kitchen",
+    "minArea": 200,
+    "zones": [
+      "OMR / IT Corridor"
+    ],
+    "footfall": "Low",
+    "staffRequired": "5–8",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 200000,
+      "max": 400000
+    },
+    "breakevenMonths": {
+      "min": 14,
+      "max": 20
+    },
+    "viabilityScore": 70,
+    "setupIncludes": [
+      "Kitchen Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI",
+      "Fire Safety"
+    ]
+  },
+  {
+    "name": "Mani's Dum Biryani",
+    "category": "Biryani",
+    "subCategory": "Hyderabadi",
+    "brandType": "Local",
+    "description": "Traditional dum-style biryani rooted in Chennai; known for aromatic slow-cooked recipes at affordable pricing.",
+    "investment": {
+      "min": 8,
+      "max": 15
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 3
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Takeaway-only / Dine-in",
+    "minArea": 250,
+    "zones": [
+      "South Chennai",
+      "Central Chennai"
+    ],
+    "footfall": "High",
+    "staffRequired": "6–10",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 150000,
+      "max": 350000
+    },
+    "breakevenMonths": {
+      "min": 14,
+      "max": 22
+    },
+    "viabilityScore": 68,
+    "setupIncludes": [
+      "Kitchen Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI",
+      "Fire Safety"
+    ]
+  },
+  {
+    "name": "Thalapakati",
+    "category": "Biryani",
+    "subCategory": "Dindigul",
+    "brandType": "Regional",
+    "description": "Iconic Dindigul-style biryani brand; seeraga samba rice & Jeera-based spice profile make it a beloved Tamil Nadu institution.",
+    "investment": {
+      "min": 15,
+      "max": 30
+    },
+    "franchiseFee": {
+      "min": 3,
+      "max": 3
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Dine-in / Takeaway-only",
+    "minArea": 600,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai",
+      "Central Chennai"
+    ],
+    "footfall": "High",
+    "staffRequired": "10–15",
+    "trainingProvided": true,
+    "beginnerFriendly": false,
+    "operationalComplexity": "high",
+    "monthlyRevenue": {
+      "min": 400000,
+      "max": 800000
+    },
+    "breakevenMonths": {
+      "min": 18,
+      "max": 24
+    },
+    "viabilityScore": 51,
+    "setupIncludes": [
+      "Kitchen Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI",
+      "Fire Safety"
+    ]
+  },
+  {
+    "name": "Charminar",
+    "category": "Biryani",
+    "subCategory": "Hyderabadi",
+    "brandType": "Local",
+    "description": "Hyderabadi dum biryani brand with deep Chennai roots; strong community reputation for authentic taste & generous portions.",
+    "investment": {
+      "min": 10,
+      "max": 20
+    },
+    "franchiseFee": {
+      "min": 3,
+      "max": 5
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Takeaway-only / Dine-in",
+    "minArea": 300,
+    "zones": [
+      "Central Chennai",
+      "North Chennai"
+    ],
+    "footfall": "High",
+    "staffRequired": "6–10",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 200000,
+      "max": 400000
+    },
+    "breakevenMonths": {
+      "min": 16,
+      "max": 22
+    },
+    "viabilityScore": 67,
+    "setupIncludes": [
+      "Kitchen Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI",
+      "Fire Safety"
+    ]
+  },
+  {
+    "name": "Buhari",
+    "category": "Biryani",
+    "subCategory": "Mixed",
+    "brandType": "Regional",
+    "description": "Legendary Chennai hotel & restaurant since 1951; iconic mutton biryani and full South Indian menu with strong brand heritage.",
+    "investment": {
+      "min": 40,
+      "max": 70
+    },
+    "franchiseFee": {
+      "min": 10,
+      "max": 15
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Dine-in",
+    "minArea": 1000,
+    "zones": [
+      "South Chennai",
+      "Central Chennai"
+    ],
+    "footfall": "High",
+    "staffRequired": "15–25",
+    "trainingProvided": true,
+    "beginnerFriendly": false,
+    "operationalComplexity": "high",
+    "monthlyRevenue": {
+      "min": 800000,
+      "max": 1500000
+    },
+    "breakevenMonths": {
+      "min": 24,
+      "max": 36
+    },
+    "viabilityScore": 32,
+    "setupIncludes": [
+      "Kitchen Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI",
+      "Fire Safety"
+    ]
+  },
+  {
+    "name": "Star Biryani",
+    "category": "Biryani",
+    "subCategory": "Hyderabadi",
+    "brandType": "Local",
+    "description": "Budget-friendly biryani chain in Chennai known for value-for-money Hyderabadi-style offerings and consistent taste.",
+    "investment": {
+      "min": 8,
+      "max": 15
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 4
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Takeaway-only",
+    "minArea": 200,
+    "zones": [
+      "Central Chennai",
+      "North Chennai"
+    ],
+    "footfall": "Medium",
+    "staffRequired": "5–8",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 150000,
+      "max": 300000
+    },
+    "breakevenMonths": {
+      "min": 14,
+      "max": 20
+    },
+    "viabilityScore": 70,
+    "setupIncludes": [
+      "Kitchen Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI",
+      "Fire Safety"
+    ]
+  },
+  {
+    "name": "Malik Hyderabad Biryani",
+    "category": "Biryani",
+    "subCategory": "Hyderabadi",
+    "brandType": "Local",
+    "description": "Popular North Chennai biryani spot; authentic Hyderabadi dum style at pocket-friendly prices with strong local loyalty.",
+    "investment": {
+      "min": 8,
+      "max": 15
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 3
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Takeaway-only / Dine-in",
+    "minArea": 250,
+    "zones": [
+      "Central Chennai",
+      "North Chennai"
+    ],
+    "footfall": "High",
+    "staffRequired": "6–10",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 200000,
+      "max": 400000
+    },
+    "breakevenMonths": {
+      "min": 14,
+      "max": 20
+    },
+    "viabilityScore": 70,
+    "setupIncludes": [
+      "Kitchen Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI",
+      "Fire Safety"
+    ]
+  },
+  {
+    "name": "Anifa Biryani",
+    "category": "Biryani",
+    "subCategory": "Hyderabadi",
+    "brandType": "Regional",
+    "description": "Fastest-growing South Indian biryani brand; 20+ outlets; known for authentic flavors, strong delivery presence & franchise support.",
+    "investment": {
+      "min": 15,
+      "max": 25
+    },
+    "franchiseFee": {
+      "min": 4,
+      "max": 6
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Takeaway-only / Cloud Kitchen",
+    "minArea": 300,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai"
+    ],
+    "footfall": "Medium",
+    "staffRequired": "6–10",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 200000,
+      "max": 400000
+    },
+    "breakevenMonths": {
+      "min": 14,
+      "max": 20
+    },
+    "viabilityScore": 70,
+    "setupIncludes": [
+      "Kitchen Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI",
+      "Fire Safety"
+    ]
+  },
+  {
+    "name": "Yaa Mohaideen Biriyani",
+    "category": "Biryani",
+    "subCategory": "Ambur",
+    "brandType": "Local",
+    "description": "Classic Ambur-style biryani institution in Chennai; beloved for smoky seeraga samba rice and spicy marinated meat.",
+    "investment": {
+      "min": 8,
+      "max": 15
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 3
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Takeaway-only / Dine-in",
+    "minArea": 300,
+    "zones": [
+      "Central Chennai",
+      "North Chennai"
+    ],
+    "footfall": "High",
+    "staffRequired": "6–10",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 150000,
+      "max": 350000
+    },
+    "breakevenMonths": {
+      "min": 14,
+      "max": 20
+    },
+    "viabilityScore": 70,
+    "setupIncludes": [
+      "Kitchen Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI",
+      "Fire Safety"
+    ]
+  },
+  {
+    "name": "Mount Road Bilal",
+    "category": "Biryani",
+    "subCategory": "Ambur",
+    "brandType": "Local",
+    "description": "Heritage biryani brand from Chennai's iconic Mount Road; synonymous with Ambur-style biryani and traditional recipes.",
+    "investment": {
+      "min": 10,
+      "max": 20
+    },
+    "franchiseFee": {
+      "min": 3,
+      "max": 5
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Takeaway-only / Dine-in",
+    "minArea": 350,
+    "zones": [
+      "Central Chennai"
+    ],
+    "footfall": "High",
+    "staffRequired": "8–12",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 200000,
+      "max": 400000
+    },
+    "breakevenMonths": {
+      "min": 16,
+      "max": 22
+    },
+    "viabilityScore": 67,
+    "setupIncludes": [
+      "Kitchen Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI",
+      "Fire Safety"
+    ]
+  },
+  {
+    "name": "The Old Mirchi Biryani",
+    "category": "Biryani",
+    "subCategory": "Hyderabadi",
+    "brandType": "Local",
+    "description": "Spice-forward Hyderabadi dum biryani brand in Chennai; known for bold flavors and loyal delivery customer base.",
+    "investment": {
+      "min": 8,
+      "max": 15
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 4
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Cloud Kitchen / Takeaway-only",
+    "minArea": 200,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai"
+    ],
+    "footfall": "Medium",
+    "staffRequired": "5–8",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 150000,
+      "max": 300000
+    },
+    "breakevenMonths": {
+      "min": 12,
+      "max": 18
+    },
+    "viabilityScore": 71,
+    "setupIncludes": [
+      "Kitchen Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI",
+      "Fire Safety"
+    ]
+  },
+  {
+    "name": "Salem RR Biryani",
+    "category": "Biryani",
+    "subCategory": "Dindigul",
+    "brandType": "Regional",
+    "description": "Premium FOCO model biryani brand with Dindigul-style flavors; investors earn fixed % of sales with company-managed operations.",
+    "investment": {
+      "min": 85,
+      "max": 1
+    },
+    "franchiseFee": {
+      "min": 0,
+      "max": 0
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Dine-in",
+    "minArea": 1200,
+    "zones": [
+      "South Chennai",
+      "Central Chennai"
+    ],
+    "footfall": "High",
+    "staffRequired": "15–25",
+    "trainingProvided": true,
+    "beginnerFriendly": false,
+    "operationalComplexity": "high",
+    "monthlyRevenue": {
+      "min": 1000000,
+      "max": 1800000
+    },
+    "breakevenMonths": {
+      "min": 18,
+      "max": 24
+    },
+    "viabilityScore": 58,
+    "setupIncludes": [
+      "Kitchen Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI",
+      "Fire Safety"
+    ]
+  },
+  {
+    "name": "Bai Biriyani",
+    "category": "Biryani",
+    "subCategory": "Mixed",
+    "brandType": "Local",
+    "description": "Chennai cloud kitchen brand specializing in home-style biryani variants; accessible pricing & strong Swiggy/Zomato ratings.",
+    "investment": {
+      "min": 6,
+      "max": 12
+    },
+    "franchiseFee": {
+      "min": 1,
+      "max": 3
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Cloud Kitchen",
+    "minArea": 150,
+    "zones": [
+      "OMR / IT Corridor"
+    ],
+    "footfall": "Low",
+    "staffRequired": "4–6",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 100000,
+      "max": 250000
+    },
+    "breakevenMonths": {
+      "min": 12,
+      "max": 18
+    },
+    "viabilityScore": 77,
+    "setupIncludes": [
+      "Kitchen Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI",
+      "Fire Safety"
+    ]
+  },
+  {
+    "name": "Kalids Biryani",
+    "category": "Biryani",
+    "subCategory": "Ambur",
+    "brandType": "Local",
+    "description": "Well-known Ambur-style biryani spot with loyal Chennai following; simple menu focused on quality mutton & chicken biryani.",
+    "investment": {
+      "min": 8,
+      "max": 15
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 4
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Takeaway-only / Dine-in",
+    "minArea": 300,
+    "zones": [
+      "Central Chennai",
+      "North Chennai"
+    ],
+    "footfall": "High",
+    "staffRequired": "6–10",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 150000,
+      "max": 300000
+    },
+    "breakevenMonths": {
+      "min": 14,
+      "max": 20
+    },
+    "viabilityScore": 70,
+    "setupIncludes": [
+      "Kitchen Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI",
+      "Fire Safety"
+    ]
+  },
+  {
+    "name": "The Wedding Biryani",
+    "category": "Biryani",
+    "subCategory": "Mixed",
+    "brandType": "Local",
+    "description": "Catering-focused biryani brand offering bulk & event biryani; transitions into retail franchise targeting parties and celebrations.",
+    "investment": {
+      "min": 10,
+      "max": 20
+    },
+    "franchiseFee": {
+      "min": 3,
+      "max": 5
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Takeaway-only / Cloud Kitchen",
+    "minArea": 300,
+    "zones": [
+      "South Chennai",
+      "Central Chennai"
+    ],
+    "footfall": "Medium",
+    "staffRequired": "6–12",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 200000,
+      "max": 400000
+    },
+    "breakevenMonths": {
+      "min": 14,
+      "max": 20
+    },
+    "viabilityScore": 69,
+    "setupIncludes": [
+      "Kitchen Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI",
+      "Fire Safety"
+    ]
+  },
+  {
+    "name": "Behrouz Biryani",
+    "category": "Biryani",
+    "subCategory": "Hyderabadi",
+    "brandType": "National",
+    "description": "Premium Mughal-inspired cloud kitchen brand by Rebel Foods; royal packaging, pan-India presence & strong delivery platform.",
+    "investment": {
+      "min": 25,
+      "max": 40
+    },
+    "franchiseFee": {
+      "min": 5,
+      "max": 10
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Cloud Kitchen",
+    "minArea": 300,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai"
+    ],
+    "footfall": "Low",
+    "staffRequired": "6–10",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 200000,
+      "max": 400000
+    },
+    "breakevenMonths": {
+      "min": 18,
+      "max": 24
+    },
+    "viabilityScore": 67,
+    "setupIncludes": [
+      "Kitchen Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI",
+      "Fire Safety"
+    ]
+  },
+  {
+    "name": "Aasife Biriyani",
+    "category": "Biryani",
+    "subCategory": "Ambur",
+    "brandType": "Regional",
+    "description": "Iconic South Indian Ambur-style biryani chain with rich heritage; known for aromatic flavors at affordable prices.",
+    "investment": {
+      "min": 25,
+      "max": 40
+    },
+    "franchiseFee": {
+      "min": 5,
+      "max": 8
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Dine-in / Takeaway-only",
+    "minArea": 600,
+    "zones": [
+      "South Chennai",
+      "Central Chennai",
+      "North Chennai"
+    ],
+    "footfall": "High",
+    "staffRequired": "10–15",
+    "trainingProvided": true,
+    "beginnerFriendly": false,
+    "operationalComplexity": "high",
+    "monthlyRevenue": {
+      "min": 200000,
+      "max": 400000
+    },
+    "breakevenMonths": {
+      "min": 18,
+      "max": 30
+    },
+    "viabilityScore": 49,
+    "setupIncludes": [
+      "Kitchen Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI",
+      "Fire Safety"
+    ]
+  },
+  {
+    "name": "Sukkubhai Biryani",
+    "category": "Biryani",
+    "subCategory": "Dindigul",
+    "brandType": "Local",
+    "description": "Local Chennai brand with Dindigul-style biryani; popular for its fragrant seeraga samba rice and affordable portions.",
+    "investment": {
+      "min": 8,
+      "max": 15
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 3
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Takeaway-only / Dine-in",
+    "minArea": 250,
+    "zones": [
+      "South Chennai",
+      "Central Chennai"
+    ],
+    "footfall": "High",
+    "staffRequired": "5–8",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 150000,
+      "max": 300000
+    },
+    "breakevenMonths": {
+      "min": 14,
+      "max": 20
+    },
+    "viabilityScore": 70,
+    "setupIncludes": [
+      "Kitchen Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI",
+      "Fire Safety"
+    ]
+  },
+  {
+    "name": "Junior Kuppanna",
+    "category": "Biryani",
+    "subCategory": "Mixed",
+    "brandType": "Regional",
+    "description": "Beloved Coimbatore-origin brand serving Kongu-style biryani & veg/non-veg thalis; strong South TN fan base in Chennai.",
+    "investment": {
+      "min": 20,
+      "max": 40
+    },
+    "franchiseFee": {
+      "min": 5,
+      "max": 10
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Dine-in",
+    "minArea": 800,
+    "zones": [
+      "South Chennai",
+      "Central Chennai"
+    ],
+    "footfall": "High",
+    "staffRequired": "12–20",
+    "trainingProvided": true,
+    "beginnerFriendly": false,
+    "operationalComplexity": "high",
+    "monthlyRevenue": {
+      "min": 500000,
+      "max": 1000000
+    },
+    "breakevenMonths": {
+      "min": 20,
+      "max": 30
+    },
+    "viabilityScore": 44,
+    "setupIncludes": [
+      "Kitchen Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI",
+      "Fire Safety"
+    ]
+  },
+  {
+    "name": "Mandi Raja",
+    "category": "Biryani",
+    "subCategory": "Mixed",
+    "brandType": "Regional",
+    "description": "Arabian Mandi-style biryani brand with slow-cooked, pit-roasted rice & meat; niche but growing loyalty in urban Chennai.",
+    "investment": {
+      "min": 20,
+      "max": 35
+    },
+    "franchiseFee": {
+      "min": 5,
+      "max": 8
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Dine-in / Takeaway-only",
+    "minArea": 600,
+    "zones": [
+      "Central Chennai",
+      "North Chennai"
+    ],
+    "footfall": "High",
+    "staffRequired": "10–15",
+    "trainingProvided": true,
+    "beginnerFriendly": false,
+    "operationalComplexity": "high",
+    "monthlyRevenue": {
+      "min": 300000,
+      "max": 600000
+    },
+    "breakevenMonths": {
+      "min": 18,
+      "max": 28
+    },
+    "viabilityScore": 52,
+    "setupIncludes": [
+      "Kitchen Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI",
+      "Fire Safety"
+    ]
+  },
+  {
+    "name": "Thavusukutti Biriyani",
+    "category": "Biryani",
+    "subCategory": "Ambur",
+    "brandType": "Local",
+    "description": "Authentic Ambur-style biriyani brand from Tamil Nadu; earthy, spicy and served with raita and mirchi salan on the side.",
+    "investment": {
+      "min": 8,
+      "max": 15
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 4
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Takeaway-only / Dine-in",
+    "minArea": 250,
+    "zones": [
+      "Central Chennai",
+      "North Chennai"
+    ],
+    "footfall": "High",
+    "staffRequired": "5–8",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 150000,
+      "max": 300000
+    },
+    "breakevenMonths": {
+      "min": 14,
+      "max": 20
+    },
+    "viabilityScore": 70,
+    "setupIncludes": [
+      "Kitchen Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI",
+      "Fire Safety"
+    ]
+  },
+  {
+    "name": "Madurai Mundasukatti Biryani",
+    "category": "Biryani",
+    "subCategory": "Dindigul",
+    "brandType": "Regional",
+    "description": "Chennai-based Madurai-origin franchise; bold dum biryani with rustic taste; 90% revenue share and growing franchise network.",
+    "investment": {
+      "min": 17,
+      "max": 25
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 5
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Takeaway-only / Dine-in",
+    "minArea": 300,
+    "zones": [
+      "South Chennai",
+      "Central Chennai"
+    ],
+    "footfall": "High",
+    "staffRequired": "6–10",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 200000,
+      "max": 400000
+    },
+    "breakevenMonths": {
+      "min": 18,
+      "max": 24
+    },
+    "viabilityScore": 68,
+    "setupIncludes": [
+      "Kitchen Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI",
+      "Fire Safety"
+    ]
+  },
+  {
+    "name": "Biryani Blues",
+    "category": "Biryani",
+    "subCategory": "Hyderabadi",
+    "brandType": "National",
+    "description": "North India's largest omni-channel biryani chain; premium Hyderabadi flavors, corporate park targeting and high delivery volumes.",
+    "investment": {
+      "min": 20,
+      "max": 30
+    },
+    "franchiseFee": {
+      "min": 5,
+      "max": 10
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Dine-in / Cloud Kitchen",
+    "minArea": 500,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai"
+    ],
+    "footfall": "Medium",
+    "staffRequired": "10–15",
+    "trainingProvided": true,
+    "beginnerFriendly": false,
+    "operationalComplexity": "high",
+    "monthlyRevenue": {
+      "min": 300000,
+      "max": 500000
+    },
+    "breakevenMonths": {
+      "min": 18,
+      "max": 24
+    },
+    "viabilityScore": 54,
+    "setupIncludes": [
+      "Kitchen Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI",
+      "Fire Safety"
+    ]
+  },
+  {
+    "name": "Biryani House",
+    "category": "Biryani",
+    "subCategory": "Mixed",
+    "brandType": "Local",
+    "description": "Mid-segment biryani chain in Chennai offering multiple biryani styles; delivery-first model with good Swiggy/Zomato ratings.",
+    "investment": {
+      "min": 10,
+      "max": 20
+    },
+    "franchiseFee": {
+      "min": 3,
+      "max": 5
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Cloud Kitchen / Takeaway-only",
+    "minArea": 200,
+    "zones": [
+      "OMR / IT Corridor",
+      "South Chennai"
+    ],
+    "footfall": "Medium",
+    "staffRequired": "5–8",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 150000,
+      "max": 300000
+    },
+    "breakevenMonths": {
+      "min": 14,
+      "max": 20
+    },
+    "viabilityScore": 69,
+    "setupIncludes": [
+      "Kitchen Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI",
+      "Fire Safety"
+    ]
+  },
+  {
+    "name": "Chennai Rawther Biryani",
+    "category": "Biryani",
+    "subCategory": "Ambur",
+    "brandType": "Local",
+    "description": "Rawther-community style biryani brand; Chennai heritage brand with distinctive Ambur-influence and loyal Muslim community patronage.",
+    "investment": {
+      "min": 8,
+      "max": 15
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 3
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Takeaway-only / Dine-in",
+    "minArea": 300,
+    "zones": [
+      "Central Chennai",
+      "North Chennai"
+    ],
+    "footfall": "High",
+    "staffRequired": "6–10",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 150000,
+      "max": 300000
+    },
+    "breakevenMonths": {
+      "min": 14,
+      "max": 20
+    },
+    "viabilityScore": 70,
+    "setupIncludes": [
+      "Kitchen Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI",
+      "Fire Safety"
+    ]
+  },
+  {
+    "name": "Khalids Biryani",
+    "category": "Biryani",
+    "subCategory": "Ambur",
+    "brandType": "Local",
+    "description": "Popular Chennai biryani outlet known for authentic Ambur and Hyderabadi styles; consistent taste with great value pricing.",
+    "investment": {
+      "min": 8,
+      "max": 15
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 4
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Takeaway-only / Dine-in",
+    "minArea": 300,
+    "zones": [
+      "Central Chennai",
+      "North Chennai"
+    ],
+    "footfall": "High",
+    "staffRequired": "6–10",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 150000,
+      "max": 300000
+    },
+    "breakevenMonths": {
+      "min": 14,
+      "max": 20
+    },
+    "viabilityScore": 70,
+    "setupIncludes": [
+      "Kitchen Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI",
+      "Fire Safety"
+    ]
+  },
+  {
+    "name": "Dindigul AR Biryani",
+    "category": "Biryani",
+    "subCategory": "Dindigul",
+    "brandType": "Regional",
+    "description": "Authentic Dindigul-style biryani brand using seeraga samba rice; rustic flavors with a strong South Tamil Nadu following in Chennai.",
+    "investment": {
+      "min": 10,
+      "max": 20
+    },
+    "franchiseFee": {
+      "min": 3,
+      "max": 5
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Takeaway-only / Dine-in",
+    "minArea": 350,
+    "zones": [
+      "South Chennai",
+      "Central Chennai"
+    ],
+    "footfall": "High",
+    "staffRequired": "6–10",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 200000,
+      "max": 400000
+    },
+    "breakevenMonths": {
+      "min": 14,
+      "max": 22
+    },
+    "viabilityScore": 70,
+    "setupIncludes": [
+      "Kitchen Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI",
+      "Fire Safety"
+    ]
+  },
+  {
+    "name": "Appu Kadai Biryani",
+    "category": "Biryani",
+    "subCategory": "Dindigul",
+    "brandType": "Local",
+    "description": "Homely Dindigul-style biryani spot in Chennai; small-format takeaway brand loved for earthy spices and affordable pricing.",
+    "investment": {
+      "min": 6,
+      "max": 12
+    },
+    "franchiseFee": {
+      "min": 1,
+      "max": 3
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Takeaway-only",
+    "minArea": 150,
+    "zones": [
+      "South Chennai"
+    ],
+    "footfall": "Medium",
+    "staffRequired": "4–6",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 100000,
+      "max": 200000
+    },
+    "breakevenMonths": {
+      "min": 12,
+      "max": 18
+    },
+    "viabilityScore": 77,
+    "setupIncludes": [
+      "Kitchen Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI",
+      "Fire Safety"
+    ]
+  },
+  {
+    "name": "Afraaz Biryani",
+    "category": "Biryani",
+    "subCategory": "Hyderabadi",
+    "brandType": "Local",
+    "description": "Emerging Chennai biryani brand with Hyderabadi dum style; growing delivery presence with competitive pricing and quality control.",
+    "investment": {
+      "min": 8,
+      "max": 15
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 4
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Cloud Kitchen / Takeaway-only",
+    "minArea": 200,
+    "zones": [
+      "Central Chennai"
+    ],
+    "footfall": "Medium",
+    "staffRequired": "5–8",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 100000,
+      "max": 250000
+    },
+    "breakevenMonths": {
+      "min": 12,
+      "max": 18
+    },
+    "viabilityScore": 71,
+    "setupIncludes": [
+      "Kitchen Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "FSSAI",
+      "Fire Safety"
+    ]
+  },
+  {
+    "name": "Care Pharmacy",
+    "category": "Pharmacy",
+    "subCategory": "Retail Pharmacy",
+    "brandType": "National",
+    "description": "A high-growth discount-led pharmacy providing a one-roof healthcare solution with medicines, FMCG, diagnostic tie-ups, and in-store doctor clinics",
+    "investment": {
+      "min": 11,
+      "max": 15
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 2
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Retail Store",
+    "minArea": 200,
+    "zones": [
+      "South Chennai",
+      "Central Chennai",
+      "North Chennai",
+      "OMR / IT Corridor"
+    ],
+    "footfall": "High",
+    "staffRequired": "3-5",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 200000,
+      "max": 500000
+    },
+    "breakevenMonths": {
+      "min": 18,
+      "max": 30
+    },
+    "viabilityScore": 69,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training",
+      "Software"
+    ],
+    "status": "active",
+    "licenses": [
+      "Drug License",
+      "GST",
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Medkart Pharmacy",
+    "category": "Pharmacy",
+    "subCategory": "Retail Pharmacy",
+    "brandType": "National",
+    "description": "A tech-driven retail chain for affordable generic medicines up to 85% cheaper through AI-powered inventory management",
+    "investment": {
+      "min": 11,
+      "max": 12
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 2
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Retail Store",
+    "minArea": 200,
+    "zones": [
+      "South Chennai",
+      "Central Chennai",
+      "North Chennai",
+      "OMR / IT Corridor"
+    ],
+    "footfall": "High",
+    "staffRequired": "3-5",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 200000,
+      "max": 400000
+    },
+    "breakevenMonths": {
+      "min": 18,
+      "max": 24
+    },
+    "viabilityScore": 74,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training",
+      "Software"
+    ],
+    "status": "active",
+    "licenses": [
+      "Drug License",
+      "GST",
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Apollo Pharmacy",
+    "category": "Pharmacy",
+    "subCategory": "Retail Pharmacy",
+    "brandType": "National",
+    "description": "India's premier omnichannel pharmacy chain with 24/7 access to authentic medicines and digital healthcare services",
+    "investment": {
+      "min": 10,
+      "max": 50
+    },
+    "franchiseFee": {
+      "min": 7,
+      "max": 7
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Retail Store",
+    "minArea": 200,
+    "zones": [
+      "South Chennai",
+      "Central Chennai",
+      "North Chennai",
+      "OMR / IT Corridor"
+    ],
+    "footfall": "High",
+    "staffRequired": "3-5",
+    "trainingProvided": true,
+    "beginnerFriendly": false,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 500000,
+      "max": 1500000
+    },
+    "breakevenMonths": {
+      "min": 18,
+      "max": 36
+    },
+    "viabilityScore": 40,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training",
+      "Software"
+    ],
+    "status": "active",
+    "licenses": [
+      "Drug License",
+      "GST",
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "MedPlus",
+    "category": "Pharmacy",
+    "subCategory": "Retail Pharmacy",
+    "brandType": "National",
+    "description": "A value-focused pharmacy chain with flat 20% discounts and private-label generics at 50-80% lower costs",
+    "investment": {
+      "min": 17,
+      "max": 25
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 2
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Retail Store",
+    "minArea": 200,
+    "zones": [
+      "South Chennai",
+      "Central Chennai",
+      "North Chennai",
+      "OMR / IT Corridor"
+    ],
+    "footfall": "High",
+    "staffRequired": "3-5",
+    "trainingProvided": true,
+    "beginnerFriendly": false,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 400000,
+      "max": 900000
+    },
+    "breakevenMonths": {
+      "min": 18,
+      "max": 30
+    },
+    "viabilityScore": 51,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training",
+      "Software"
+    ],
+    "status": "active",
+    "licenses": [
+      "Drug License",
+      "GST",
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Janaushadhi",
+    "category": "Pharmacy",
+    "subCategory": "Retail Pharmacy",
+    "brandType": "National",
+    "description": "Government-backed affordable generic medicines initiative with WHO-GMP certification across 16,000+ Kendras",
+    "investment": {
+      "min": 3,
+      "max": 6
+    },
+    "franchiseFee": {
+      "min": 0,
+      "max": 0
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Retail Store",
+    "minArea": 200,
+    "zones": [
+      "South Chennai",
+      "Central Chennai",
+      "North Chennai",
+      "OMR / IT Corridor"
+    ],
+    "footfall": "High",
+    "staffRequired": "3-5",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 100000,
+      "max": 300000
+    },
+    "breakevenMonths": {
+      "min": 12,
+      "max": 24
+    },
+    "viabilityScore": 80,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training",
+      "Software"
+    ],
+    "status": "active",
+    "licenses": [
+      "Drug License",
+      "GST",
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Tata 1mg",
+    "category": "Pharmacy",
+    "subCategory": "Retail Pharmacy",
+    "brandType": "National",
+    "description": "A Tata Group healthcare platform with e-pharmacy, lab tests, and online doctor consultations",
+    "investment": {
+      "min": 10,
+      "max": 50
+    },
+    "franchiseFee": {
+      "min": 5,
+      "max": 5
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Retail Store",
+    "minArea": 200,
+    "zones": [
+      "South Chennai",
+      "Central Chennai",
+      "North Chennai",
+      "OMR / IT Corridor"
+    ],
+    "footfall": "High",
+    "staffRequired": "3-5",
+    "trainingProvided": true,
+    "beginnerFriendly": false,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 400000,
+      "max": 1200000
+    },
+    "breakevenMonths": {
+      "min": 18,
+      "max": 36
+    },
+    "viabilityScore": 46,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training",
+      "Software"
+    ],
+    "status": "active",
+    "licenses": [
+      "Drug License",
+      "GST",
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Netmeds",
+    "category": "Pharmacy",
+    "subCategory": "Retail Pharmacy",
+    "brandType": "National",
+    "description": "Reliance Retail-owned national e-pharmacy with allopathy, AYUSH, and wellness products",
+    "investment": {
+      "min": 10,
+      "max": 20
+    },
+    "franchiseFee": {
+      "min": 0,
+      "max": 0
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Retail Store",
+    "minArea": 200,
+    "zones": [
+      "South Chennai",
+      "Central Chennai",
+      "North Chennai",
+      "OMR / IT Corridor"
+    ],
+    "footfall": "High",
+    "staffRequired": "3-5",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 300000,
+      "max": 700000
+    },
+    "breakevenMonths": {
+      "min": 18,
+      "max": 30
+    },
+    "viabilityScore": 68,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training",
+      "Software"
+    ],
+    "status": "active",
+    "licenses": [
+      "Drug License",
+      "GST",
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Zeelab Pharmacy",
+    "category": "Pharmacy",
+    "subCategory": "Retail Pharmacy",
+    "brandType": "National",
+    "description": "High-growth discount pharmacy with WHO-GMP generic medicines up to 90% cheaper than branded",
+    "investment": {
+      "min": 9,
+      "max": 12
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 2
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Retail Store",
+    "minArea": 200,
+    "zones": [
+      "South Chennai",
+      "Central Chennai",
+      "North Chennai",
+      "OMR / IT Corridor"
+    ],
+    "footfall": "High",
+    "staffRequired": "3-5",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 100000,
+      "max": 400000
+    },
+    "breakevenMonths": {
+      "min": 12,
+      "max": 18
+    },
+    "viabilityScore": 83,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training",
+      "Software"
+    ],
+    "status": "active",
+    "licenses": [
+      "Drug License",
+      "GST",
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "PharmEasy",
+    "category": "Pharmacy",
+    "subCategory": "Retail Pharmacy",
+    "brandType": "National",
+    "description": "Technology-driven omnichannel healthcare platform for medicines, diagnostics, and wellness",
+    "investment": {
+      "min": 12,
+      "max": 25
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 2
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Retail Store",
+    "minArea": 200,
+    "zones": [
+      "South Chennai",
+      "Central Chennai",
+      "North Chennai",
+      "OMR / IT Corridor"
+    ],
+    "footfall": "High",
+    "staffRequired": "3-5",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 300000,
+      "max": 700000
+    },
+    "breakevenMonths": {
+      "min": 18,
+      "max": 30
+    },
+    "viabilityScore": 61,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training",
+      "Software"
+    ],
+    "status": "active",
+    "licenses": [
+      "Drug License",
+      "GST",
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Dava Discount",
+    "category": "Pharmacy",
+    "subCategory": "Retail Pharmacy",
+    "brandType": "National",
+    "description": "National pharmacy offering 20-40% discounts on authentic branded medicines",
+    "investment": {
+      "min": 10,
+      "max": 20
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 2
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Retail Store",
+    "minArea": 200,
+    "zones": [
+      "South Chennai",
+      "Central Chennai",
+      "North Chennai",
+      "OMR / IT Corridor"
+    ],
+    "footfall": "High",
+    "staffRequired": "3-5",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 300000,
+      "max": 600000
+    },
+    "breakevenMonths": {
+      "min": 18,
+      "max": 30
+    },
+    "viabilityScore": 63,
+    "setupIncludes": [
+      "Equipment",
+      "Branding",
+      "Training",
+      "Software"
+    ],
+    "status": "active",
+    "licenses": [
+      "Drug License",
+      "GST",
+      "FSSAI"
+    ]
+  },
+  {
+    "name": "Green Trends",
+    "category": "Salon",
+    "subCategory": "Unisex / Men's Salon",
+    "brandType": "National",
+    "description": "A mass-premium unisex salon franchise with strong brand recognition across South India",
+    "investment": {
+      "min": 40,
+      "max": 50
+    },
+    "franchiseFee": {
+      "min": 6,
+      "max": 6
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Salon",
+    "minArea": 300,
+    "zones": [
+      "South Chennai",
+      "Central Chennai",
+      "OMR / IT Corridor"
+    ],
+    "footfall": "High",
+    "staffRequired": "4-8",
+    "trainingProvided": true,
+    "beginnerFriendly": false,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 500000,
+      "max": 1000000
+    },
+    "breakevenMonths": {
+      "min": 24,
+      "max": 36
+    },
+    "viabilityScore": 40,
+    "setupIncludes": [
+      "Interior",
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "Shop & Establishment",
+      "GST"
+    ]
+  },
+  {
+    "name": "Naturals Salon",
+    "category": "Salon",
+    "subCategory": "Unisex / Men's Salon",
+    "brandType": "National",
+    "description": "India's most trusted salon chain with premium beauty services and comprehensive training",
+    "investment": {
+      "min": 30,
+      "max": 50
+    },
+    "franchiseFee": {
+      "min": 5,
+      "max": 7
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Salon",
+    "minArea": 300,
+    "zones": [
+      "South Chennai",
+      "Central Chennai",
+      "OMR / IT Corridor"
+    ],
+    "footfall": "High",
+    "staffRequired": "4-8",
+    "trainingProvided": true,
+    "beginnerFriendly": false,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 500000,
+      "max": 1200000
+    },
+    "breakevenMonths": {
+      "min": 18,
+      "max": 30
+    },
+    "viabilityScore": 45,
+    "setupIncludes": [
+      "Interior",
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "Shop & Establishment",
+      "GST"
+    ]
+  },
+  {
+    "name": "Jawed Habib",
+    "category": "Salon",
+    "subCategory": "Unisex / Men's Salon",
+    "brandType": "National",
+    "description": "Premier professional hair and beauty salon with celebrity-endorsed brand positioning",
+    "investment": {
+      "min": 25,
+      "max": 40
+    },
+    "franchiseFee": {
+      "min": 5,
+      "max": 7
+    },
+    "royaltyLevel": "high",
+    "outletFormat": "Salon",
+    "minArea": 300,
+    "zones": [
+      "South Chennai",
+      "Central Chennai",
+      "OMR / IT Corridor"
+    ],
+    "footfall": "High",
+    "staffRequired": "4-8",
+    "trainingProvided": true,
+    "beginnerFriendly": false,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 400000,
+      "max": 800000
+    },
+    "breakevenMonths": {
+      "min": 18,
+      "max": 35
+    },
+    "viabilityScore": 39,
+    "setupIncludes": [
+      "Interior",
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "Shop & Establishment",
+      "GST"
+    ]
+  },
+  {
+    "name": "Lakme Salon",
+    "category": "Salon",
+    "subCategory": "Unisex / Men's Salon",
+    "brandType": "National",
+    "description": "Premium beauty brand backed by HUL with comprehensive beauty services and products",
+    "investment": {
+      "min": 50,
+      "max": 70
+    },
+    "franchiseFee": {
+      "min": 3,
+      "max": 7
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Salon",
+    "minArea": 300,
+    "zones": [
+      "South Chennai",
+      "Central Chennai",
+      "OMR / IT Corridor"
+    ],
+    "footfall": "High",
+    "staffRequired": "4-8",
+    "trainingProvided": true,
+    "beginnerFriendly": false,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 800000,
+      "max": 1200000
+    },
+    "breakevenMonths": {
+      "min": 18,
+      "max": 30
+    },
+    "viabilityScore": 40,
+    "setupIncludes": [
+      "Interior",
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "Shop & Establishment",
+      "GST"
+    ]
+  },
+  {
+    "name": "cheap & best",
+    "category": "Salon",
+    "subCategory": "Unisex / Men's Salon",
+    "brandType": "Regional",
+    "description": "High-volume budget men's salon offering quick affordable haircuts in high-footfall locations",
+    "investment": {
+      "min": 15,
+      "max": 25
+    },
+    "franchiseFee": {
+      "min": 2,
+      "max": 2
+    },
+    "royaltyLevel": "medium",
+    "outletFormat": "Salon",
+    "minArea": 300,
+    "zones": [
+      "South Chennai",
+      "Central Chennai",
+      "OMR / IT Corridor"
+    ],
+    "footfall": "High",
+    "staffRequired": "4-8",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 200000,
+      "max": 500000
+    },
+    "breakevenMonths": {
+      "min": 18,
+      "max": 24
+    },
+    "viabilityScore": 63,
+    "setupIncludes": [
+      "Interior",
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "Shop & Establishment",
+      "GST"
+    ]
+  },
+  {
+    "name": "Tom & Jerry Salon",
+    "category": "Salon",
+    "subCategory": "Unisex / Men's Salon",
+    "brandType": "Regional",
+    "description": "Fast-growing men's salon known for speed, hygiene and affordable pricing",
+    "investment": {
+      "min": 10,
+      "max": 20
+    },
+    "franchiseFee": {
+      "min": 3,
+      "max": 3
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Salon",
+    "minArea": 300,
+    "zones": [
+      "South Chennai",
+      "Central Chennai",
+      "OMR / IT Corridor"
+    ],
+    "footfall": "High",
+    "staffRequired": "4-8",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 100000,
+      "max": 300000
+    },
+    "breakevenMonths": {
+      "min": 10,
+      "max": 16
+    },
+    "viabilityScore": 79,
+    "setupIncludes": [
+      "Interior",
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "Shop & Establishment",
+      "GST"
+    ]
+  },
+  {
+    "name": "Vantha Vettuvom",
+    "category": "Salon",
+    "subCategory": "Unisex / Men's Salon",
+    "brandType": "Regional",
+    "description": "High-growth men's salon franchise with low investment and strong local brand identity in Chennai",
+    "investment": {
+      "min": 8,
+      "max": 20
+    },
+    "franchiseFee": {
+      "min": 1,
+      "max": 2
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Salon",
+    "minArea": 300,
+    "zones": [
+      "South Chennai",
+      "Central Chennai",
+      "OMR / IT Corridor"
+    ],
+    "footfall": "High",
+    "staffRequired": "4-8",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 0,
+      "max": 100000
+    },
+    "breakevenMonths": {
+      "min": 6,
+      "max": 18
+    },
+    "viabilityScore": 73,
+    "setupIncludes": [
+      "Interior",
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "Shop & Establishment",
+      "GST"
+    ]
+  },
+  {
+    "name": "Zero to Hero Salon",
+    "category": "Salon",
+    "subCategory": "Unisex / Men's Salon",
+    "brandType": "Regional",
+    "description": "Affordable unisex salon for first-time entrepreneurs with minimal investment requirements",
+    "investment": {
+      "min": 5,
+      "max": 12
+    },
+    "franchiseFee": {
+      "min": 1,
+      "max": 1
+    },
+    "royaltyLevel": "none",
+    "outletFormat": "Salon",
+    "minArea": 300,
+    "zones": [
+      "South Chennai",
+      "Central Chennai",
+      "OMR / IT Corridor"
+    ],
+    "footfall": "High",
+    "staffRequired": "4-8",
+    "trainingProvided": true,
+    "beginnerFriendly": true,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 100000,
+      "max": 200000
+    },
+    "breakevenMonths": {
+      "min": 6,
+      "max": 18
+    },
+    "viabilityScore": 80,
+    "setupIncludes": [
+      "Interior",
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "Shop & Establishment",
+      "GST"
+    ]
+  },
+  {
+    "name": "Studio99 Salon",
+    "category": "Salon",
+    "subCategory": "Unisex / Men's Salon",
+    "brandType": "National",
+    "description": "Premium unisex salon targeting malls and high-street with full brand support",
+    "investment": {
+      "min": 30,
+      "max": 55
+    },
+    "franchiseFee": {
+      "min": 5,
+      "max": 7
+    },
+    "royaltyLevel": "low",
+    "outletFormat": "Salon",
+    "minArea": 300,
+    "zones": [
+      "South Chennai",
+      "Central Chennai",
+      "OMR / IT Corridor"
+    ],
+    "footfall": "High",
+    "staffRequired": "4-8",
+    "trainingProvided": true,
+    "beginnerFriendly": false,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 800000,
+      "max": 2000000
+    },
+    "breakevenMonths": {
+      "min": 18,
+      "max": 30
+    },
+    "viabilityScore": 48,
+    "setupIncludes": [
+      "Interior",
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "Shop & Establishment",
+      "GST"
+    ]
+  },
+  {
+    "name": "Toni & Guy",
+    "category": "Salon",
+    "subCategory": "Unisex / Men's Salon",
+    "brandType": "International",
+    "description": "World-leading premium hair salon with international training academy and global brand recognition",
+    "investment": {
+      "min": 60,
+      "max": 100
+    },
+    "franchiseFee": {
+      "min": 6,
+      "max": 15
+    },
+    "royaltyLevel": "high",
+    "outletFormat": "Salon",
+    "minArea": 300,
+    "zones": [
+      "South Chennai",
+      "Central Chennai",
+      "OMR / IT Corridor"
+    ],
+    "footfall": "High",
+    "staffRequired": "4-8",
+    "trainingProvided": true,
+    "beginnerFriendly": false,
+    "operationalComplexity": "medium",
+    "monthlyRevenue": {
+      "min": 1500000,
+      "max": 4000000
+    },
+    "breakevenMonths": {
+      "min": 12,
+      "max": 36
+    },
+    "viabilityScore": 24,
+    "setupIncludes": [
+      "Interior",
+      "Equipment",
+      "Branding",
+      "Training"
+    ],
+    "status": "active",
+    "licenses": [
+      "Shop & Establishment",
+      "GST"
+    ]
+  }
+]
