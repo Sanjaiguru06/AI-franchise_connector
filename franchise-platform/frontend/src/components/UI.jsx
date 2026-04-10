@@ -1,4 +1,5 @@
 import { fmt } from '../utils/helpers'
+import { fmt, CATEGORY_META } from '../utils/helpers'
 
 // ── Viability Score Ring ──
 export function ScoreRing({ score, size = 64 }) {
@@ -29,7 +30,7 @@ export function ScoreRing({ score, size = 64 }) {
 export function FranchiseCard({ franchise, onCompare, compareList = [], onClick, onSave, saved }) {
   const { name, category, brandType, investment, monthlyRevenue,
           breakevenMonths, royaltyLevel, beginnerFriendly, viabilityScore, description } = franchise
-  const { icon, color } = require('../utils/helpers').CATEGORY_META[category] || {}
+  const { icon, color } = CATEGORY_META[category] || {}
   const inCompare = compareList.includes(franchise._id)
 
   return (
